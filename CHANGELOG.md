@@ -2,6 +2,13 @@
 
 ### Versión 1.1.X
 <details>
+<summary>Versión 1.1.3</summary>
+
+- Arreglado el spawn de Office en la Luna de Dine. (el interior no estaba saliendo)
+
+</details>
+
+<details>
 <summary>Versión 1.1.2</summary>
 
 - Actualizada correctamente la lista dependencias.
