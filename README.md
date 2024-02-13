@@ -23,7 +23,7 @@ En este modpack encontraras una versión del juego bastante divertida, pero prin
 * La linterna a como se le va acabando la batería se ira **debilitando su brillo**.
 * Los jugadores podrán tener condiciones tales como pierna rota, brazo roto, sangrado, ceguera y conmociones cerebrales.
 * Habrá una **oscuridad total** en lugares sin ninguna fuente de luz, se le reducirá el precio de las linternas para balancear esto.
-* Al retirar el aparato (reactor de energía), iniciara una cuenta atrás de 2 minutos antes de la **explosión de las instalaciones y cercanías.** (Valor del aparato: 500)
+* Al retirar el aparato (reactor de energía), iniciara una cuenta atrás de 2 minutos antes de la **explosión de las instalaciones y cercanías.** (Valor del aparato: 1000)
 * Nuevo equipamiento: **Contador Geiger**, busca señales de radiación.
 * Al matar enemigos consigue botín.
 * Usa el espejo para caminar hacia atrás y ver hacia donde te diriges. (tienes que ser algo creativo para esto)
@@ -36,15 +36,18 @@ En este modpack encontraras una versión del juego bastante divertida, pero prin
 * Añade efectos de blur en ciertos momentos durante la huida del reactor.
 * Dales a los muertos la habilidad de **comunicarse de manera simple** mediante la Oija.
 * El control remoto ahora puede **desactivar torretas y minas**. (15 metros para que funcione)
-* Añade **nuevos interiores** a ciertas lunas, aquí las probabilidades:
-    - Experimentation (Interior Vainilla = Fabrica): 99,99%
-    - Assurance (Interior Vainilla = Fabrica): 99,99%
-    - Vow (Interior Vainilla = Fabrica): 99,99%
-    - Offense (Sewer): 99,99%
-    - March (Castle): 99,99%
-    - Rend (Interior Vainilla = Mansion): 99,99%
-    - Dine (Scarlet Devil Mansion): 99,99%
-    - Titan (SCP): 99,99%
+* Añade **nuevos interiores** en ciertas lunas, aquí las probabilidades:
+    - Easy Moon:
+        * Experimentation (Interior Vainilla = Fabrica)
+        * Assurance (Bunker)
+        * Vow (Castle)
+    - Medium Moon:
+        * Offense (Minecraft Stronghold Interior)
+        * March (Sewer)
+    - Hard Moon:
+        * Rend (Scarlet Devil Masion)
+        * Dine (Office)
+        * Titan (SCP)
 * Añade a los enemigos la **habilidad de escuchar y repetir** lo que dicen tus compañeros.
 * Las minas ahora pueden ser **detonadas por los enemigos**.
 * 3 eventos se seleccionarán en cada partida variando las mecánicas a usar. (Se favorece a los **eventos positivos y neutrales** para no elevar la dificultad en exceso)
@@ -91,7 +94,7 @@ En este modpack encontraras una versión del juego bastante divertida, pero prin
 
 ## Cambios Cosméticos
 * Usa los cosméticos que quieras debido a **compatibilidad con MoreCompany**.
-* Entre los cométicos que puedes usar estan: 
+* Entre los cosméticos que puedes usar están: 
     - Cosméticos animados.
     - Cosméticos de Anime.
     - Cosméticos de Fnaf.
@@ -99,7 +102,7 @@ En este modpack encontraras una versión del juego bastante divertida, pero prin
     - Cosméticos furry de fornite.
     - Cosméticos de videojuegos.
     - Añade colas.
-* Entre los trajes que puedes usar estan: 
+* Entre los trajes que puedes usar están: 
     - Traje The Driver de Drive (2011).
     - Trajes de Fnaf.
     - Trajes de diferentes memes y franquicias.
@@ -129,7 +132,7 @@ En este modpack encontraras una versión del juego bastante divertida, pero prin
 <summary>Mascara IA</summary>
 
 - Cambia el IA de la máscara. Podrá usar escopetas y palas, se esconderá en los arbustos y enviará falsos envíos de items usando la terminal y podrá poner códigos en la terminal.
-- La máscara podrá poseer a alguien si su cuerpo se encuentra cerca de la máscara.
+- La máscara (objeto) podrá poseer a alguien si su cuerpo fallecido se encuentra cerca de la máscara (objeto) con un 10% de probabilidad.
 
 </details>
 
@@ -160,7 +163,7 @@ En este modpack encontraras una versión del juego bastante divertida, pero prin
 <details>
 <summary>Rolling Giant</summary>
 
-- Enemigo que te perseguirá de cierta manera o de otra a elección del Hots.
+- Enemigo que te perseguirá de cierta manera o de otra.
 - Múltiples comportamientos de IA.
 
 </details>
@@ -173,6 +176,13 @@ En este modpack encontraras una versión del juego bastante divertida, pero prin
 </details>
 
 <details>
+<summary>Shrimp</summary>
+
+- Enemigo de un juego anterior del creador de Lethal Company. (Zeekerss - The Upturned)
+
+</details>
+
+<details>
 <summary>Herobrine</summary>
 
 - Te mira en silencio desde las sombras.
@@ -180,7 +190,6 @@ En este modpack encontraras una versión del juego bastante divertida, pero prin
 - Sucederán cosas, no es sólo inquietante.
 
 </details>
-
 
 <details>
 <summary>Peepers</summary>
