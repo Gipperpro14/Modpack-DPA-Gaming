@@ -1,6 +1,6 @@
 {
     "name": "Modpack_DPA_Gaming",
-    "version_number": "1.1.1",
+    "version_number": "1.1.2",
     "website_url": "https://github.com/Gipperpro14/Modpack-DPA-Gaming.git",
     "description": "Una versión mejorada, estilizada y divertida de la V.47 encuentra nuevas mecánicas, interiores y nuevas formas de morir en este modpack.",
     "dependencies": [
@@ -119,7 +119,7 @@
         "EliteMasterEric-CleanerLogs-1.0.0",
         "Piggy-LC_Office-1.0.3",
         "Major_And_Skiz-MoreInteriors-2.2.0",
-        "skidz-PoolRooms-0.1.9",
-        "Kittenji-NavMeshInCompany-1.0.0"
+        "Kittenji-NavMeshInCompany-1.0.0",
+        "HardyBrosFlightSchool-MinecraftStrongholdInterior-0.0.2"
     ]
 }

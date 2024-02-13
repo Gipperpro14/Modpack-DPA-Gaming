@@ -2,6 +2,13 @@
 
 ### Versión 1.1.X
 <details>
+<summary>Versión 1.1.2</summary>
+
+- Actualizada correctamente la lista dependencias.
+
+</details>
+
+<details>
 <summary>Versión 1.1.1</summary>
 
 - Eliminados los siguientes mods: ShowAmmoCount (Jugabilidad)
