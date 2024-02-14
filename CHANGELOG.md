@@ -2,6 +2,15 @@
 
 ### Versión 1.1.X
 <details>
+<summary>Versión 1.1.4</summary>
+
+- Agregado un interior modificado a cada luna.
+- Agregados los siguientes mods: PoolRooms (Jugabilidad), FairAI (Jugabilidad) y BunkbedRevive (Jugabilidad).
+- Ahora puedes revivir a tus compañeros caídos por el 100% de tu cuota actual. (Favorece el Early Game)
+
+</details>
+
+<details>
 <summary>Versión 1.1.3</summary>
 
 - Arreglado el spawn de Office en la Luna de Dine. (el interior no estaba saliendo)
@@ -26,7 +35,7 @@
 </details>
 
 <details>
-<summary>Version 1.1.0</summary>
+<summary>Versión 1.1.0</summary>
 
 - Eliminados los siguientes mods: 1000 Quota Stare (Cosmético), AmongUsSuits (Cosmético), BigBossSuit (Cosmético), Brutal Company Plus (Jugabilidad) y  YoutubeBoombox (Entretenimiento).
 - Agregados los siguientes mods: BetterEXP (Calidad), Boombox Controller (Entretenimiento), Brutal Company Minus (Jugabilidad), DiscountAlert (Calidad), Herobrine (Entidad), Malfunctions (Jugabilidad), MoreItems (Calidad), Peepers (Entidad), QuotaSettings y Touchscreen (Jugabilidad).
@@ -37,14 +46,14 @@
 
 ### Version 1.0.X
 <details>
-<summary>Version 1.0.2</summary>
+<summary>Versión 1.0.2</summary>
 
 - Retoques en el "README" y agregado el "CHANGELOG".
 
 </details>
 
 <details>
-<summary>Version 1.0.1</summary>
+<summary>Versión 1.0.1</summary>
 
 - Arreglos en el manifest.json. (Fallido también)
 
@@ -52,7 +61,7 @@
 
 <details>
 
-<summary>Version 1.0.0</summary>
+<summary>Versión 1.0.0</summary>
 
 - Lanzamiento. (Fallido)
 

@@ -38,20 +38,21 @@ En este modpack encontraras una versión del juego bastante divertida, pero prin
 * El control remoto ahora puede **desactivar torretas y minas**. (15 metros para que funcione)
 * Añade **nuevos interiores** en ciertas lunas, aquí las probabilidades:
     - Easy Moon:
-        * Experimentation (Interior Vainilla = Fabrica)
-        * Assurance (Bunker)
-        * Vow (Castle)
+        * Experimentation (Bunker)
+        * Assurance (Sewer)
+        * Vow (Office)
     - Medium Moon:
         * Offense (Minecraft Stronghold Interior)
-        * March (Sewer)
+        * March (PoolRooms)
     - Hard Moon:
-        * Rend (Scarlet Devil Masion)
-        * Dine (Office)
+        * Rend (Castle)
+        * Dine (Scarlet Devil Masion)
         * Titan (SCP)
 * Añade a los enemigos la **habilidad de escuchar y repetir** lo que dicen tus compañeros.
-* Las minas ahora pueden ser **detonadas por los enemigos**.
+* Las minas ahora pueden ser **detonadas por los enemigos** e igual las torretas **apuntaran a todos** sin importar si son jugadores o enemigos.
 * 3 eventos se seleccionarán en cada partida variando las mecánicas a usar. (Se favorece a los **eventos positivos y neutrales** para no elevar la dificultad en exceso)
 * Añade la posibilidad de que la nave tenga mal funciones las cuales se irán activando según avance los días, su probabilidad es **baja <5% pero se duplica por 3** si no se recupera un cuerpo.
+* Puedes revivir a tu compañero por un 100% de la cuota. (Favorece el Early-Game, es decir si la cuota es de 10 se te cobrara 10 créditos para revivir a tu compañero, igual si tu cuota es de 1000 te cobrara 1000 para poder revivir a alguien)
 
 ## Cambios Calidad
 * Tecla especial para la linterna. (F)
