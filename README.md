@@ -53,6 +53,7 @@ En este modpack encontraras una versión del juego bastante divertida, pero prin
 * 3 eventos se seleccionarán en cada partida variando las mecánicas a usar. (Se favorece a los **eventos positivos y neutrales** para no elevar la dificultad en exceso)
 * Añade la posibilidad de que la nave tenga mal funciones las cuales se irán activando según avance los días, su probabilidad es **baja <5% pero se duplica por 3** si no se recupera un cuerpo.
 * Puedes revivir a tu compañero por un 100% de la cuota. (Favorece el Early-Game, es decir si la cuota es de 10 se te cobrara 10 créditos para revivir a tu compañero, igual si tu cuota es de 1000 te cobrara 1000 para poder revivir a alguien)
+* Tanto tu como tus compañeros pueden aparecer en los Backrooms (1%). Escapa de los Backrooms antes de que parta la nave.
 
 ## Cambios Calidad
 * Tecla especial para la linterna. (F)
@@ -87,6 +88,7 @@ En este modpack encontraras una versión del juego bastante divertida, pero prin
 
 ## Cambios Rendimiento
 * Reduce el spam de logs, **aumentando el rendimiento**.
+* Desactiva linternas y reactores en la nave para mejorar FPS.
 
 ## Cambios Entretenimiento
 * Usa el mando de memes para oír tu y tus amigos diferentes memes.
@@ -147,7 +149,15 @@ En este modpack encontraras una versión del juego bastante divertida, pero prin
 
 ## Nuevas entidades (Spoiler)
 <details>
-<summary>Hongos </summary>
+<summary>Anticoil Head</summary>
+
+- Función contraria al Coil Head (Spring).
+- Si lo ves, deja de mirarlo solo se puede mover o matar si estás viéndolo.
+
+</details>
+
+<details>
+<summary>Hongos</summary>
 
 - Inféctate a ti o a tus compañeros con este hongo. (duración 30 segundos)
 - Durante la duración del efecto no podrás escuchar lo que dicen tus compañeros. (ellos si escucharas si hablas, pero tú no a ellos)
@@ -155,7 +165,7 @@ En este modpack encontraras una versión del juego bastante divertida, pero prin
 </details>
 
 <details>
-<summary>Ghostcodes </summary>
+<summary>Ghostcodes</summary>
 
 - Una chica fantasma encantara tu terminal, enviando códigos para fastidiar a los del interior. (Activara minas, cerrara y abrirá puertas, apagara las luces y enviara códigos de transmisión)
 
@@ -170,7 +180,7 @@ En este modpack encontraras una versión del juego bastante divertida, pero prin
 </details>
 
 <details>
-<summary>Shy Guy </summary>
+<summary>Shy Guy</summary>
 
 - Agrega a Shy Guy (SCP-096) al juego así que ya sabes que esperar.
 
@@ -180,6 +190,7 @@ En este modpack encontraras una versión del juego bastante divertida, pero prin
 <summary>Shrimp</summary>
 
 - Enemigo de un juego anterior del creador de Lethal Company. (Zeekerss - The Upturned)
+- Pasivo al principio te seguirá y te observara, siempre y cuando no tenga hambre en ese momento.
 
 </details>
 
@@ -195,7 +206,8 @@ En este modpack encontraras una versión del juego bastante divertida, pero prin
 <details>
 <summary>Peepers</summary>
 
-- Criatura no-letal que spawneara en el exterior, de atraparte aumentara tu peso. (Se quitarán al despegar)
+- Criatura no-letal que spawneara en el exterior, de atraparte aumentara tu peso. (Se quitarán al despegar o al usar el TP)
+- Los peepers miraran al Coil Head por ti. (No sé si también al al Anticoil Head)
 
 </details>
 

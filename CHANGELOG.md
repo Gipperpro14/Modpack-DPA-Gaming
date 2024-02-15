@@ -2,11 +2,22 @@
 
 ### Versión 1.1.X
 <details>
+<summary>Versión 1.1.5</summary>
+
+- Agregados los siguientes mods: Backrooms (Jugabilidad), HandheldMap (Jugabilidad), LightsOut (Rendimiento) y QualityCompany (Calidad).
+- Eliminados los siguientes mods: Corporate Restructure (Jugabilidad), GetLootForKills (Jugabilidad), LC Symphony (Calidad) y NoSellLimit (Calidad).
+- Ahora tienes un 1% de que en cualquier momento seas teletransportado a los backrooms. Puede ayudarte a escapar de las instalaciones y volver a la nave, pero ten cuidado no estás solo...
+- Actualizaciones disponibles de todos los mods. (15/2/24)
+
+</details>
+
+<details>
 <summary>Versión 1.1.4</summary>
 
 - Agregado un interior modificado a cada luna.
 - Agregados los siguientes mods: PoolRooms (Jugabilidad), FairAI (Jugabilidad) y BunkbedRevive (Jugabilidad).
 - Ahora puedes revivir a tus compañeros caídos por el 100% de tu cuota actual. (Favorece el Early Game)
+- Actualizaciones disponibles de todos los mods. (14/2/24)
 
 </details>
 
@@ -14,6 +25,7 @@
 <summary>Versión 1.1.3</summary>
 
 - Arreglado el spawn de Office en la Luna de Dine. (el interior no estaba saliendo)
+- Actualizaciones disponibles de todos los mods. (13/2/24)
 
 </details>
 
