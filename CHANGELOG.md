@@ -1,5 +1,27 @@
 ## Lanzamientos
 
+### Versión 1.2.X
+<details>
+<summary>Versión 1.2.2</summary>
+
+- Añadido coroner y MaskedEnemyOverhaul.
+
+</details>
+
+<details>
+<summary>Versión 1.2.1</summary>
+
+- Update de los mods, sustitución del Advanced Company con otros mods parecidos.
+
+</details>
+
+<details>
+<summary>Versión 1.2.0</summary>
+
+- Intento de rescate del modpack.
+
+</details>
+
 ### Versión 1.1.X
 <details>
 <summary>Versión 1.1.5</summary>

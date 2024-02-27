@@ -2,6 +2,8 @@
 
 En este modpack encontraras una versión del juego bastante divertida, pero principalmente desafiante sin llegar a ser injusta (o eso creo). Podrás notar todos estos cambios en el lobby, jugabilidad, calidad, rendimiento, entretenimiento, cosméticos y nuevas entidades.
 
+**README DESACTUALIZADO, POSIBLEMENTE NO LO ACTUALICE**
+
 ## Cambios Principales
 * **5 días** para completar la cuota.
 * No hay penalización monetaria del 20% por cada miembro del equipo que no haya sido recuperado, en su lugar **aumentara la cuota en 10** por cada miembro del equipo (aumento permanente). Además de eso aumentara por **3** de que se active un malfuncionamiento de la nave. (Defecto 5%)
