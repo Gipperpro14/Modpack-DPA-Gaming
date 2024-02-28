@@ -2,6 +2,16 @@
 
 ### Versión 1.2.X
 <details>
+<summary>Versión 1.2.3</summary>
+
+- Actualizado el README.
+- Incorporado nuevamente el Advanced Company, agregado 8 lunas nuevas. Sus precios seran bajos, era para poder ordenarlos correctamente por dificultad.
+- Update de los mods y proxima update actualizo completamente el README a su version mas actual.
+- Actualizaciones disponibles de todos los mods. (27/02/24)
+
+</details>
+
+<details>
 <summary>Versión 1.2.2</summary>
 
 - Añadido coroner y MaskedEnemyOverhaul.
