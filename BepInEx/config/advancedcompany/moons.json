@@ -1,0 +1,7832 @@
+{
+  "moons": [
+    {
+      "key": "147 Gratar",
+      "value": {
+        "override_price": false,
+        "price": 9,
+        "override_dungeon_size": false,
+        "dungeon_size": 1.6,
+        "override_min_scrap_amount": false,
+        "min_scrap_amount": 24,
+        "override_max_scrap_amount": false,
+        "max_scrap_amount": 28,
+        "override_scrap_amount_modifier": false,
+        "scrap_amount_modifier": 1.0,
+        "override_scrap_value_modifier": false,
+        "scrap_value_modifier": 1.0,
+        "loot_table": [
+          {
+            "key": "Big Nut",
+            "value": {
+              "override": false,
+              "rarity": 44
+            }
+          },
+          {
+            "key": "Big Screw",
+            "value": {
+              "override": false,
+              "rarity": 44
+            }
+          },
+          {
+            "key": "Iron Gear",
+            "value": {
+              "override": false,
+              "rarity": 44
+            }
+          },
+          {
+            "key": "Crankshaft",
+            "value": {
+              "override": false,
+              "rarity": 40
+            }
+          },
+          {
+            "key": "Steel Gear",
+            "value": {
+              "override": false,
+              "rarity": 29
+            }
+          },
+          {
+            "key": "Hammer",
+            "value": {
+              "override": false,
+              "rarity": 30
+            }
+          },
+          {
+            "key": "Iron Ingot",
+            "value": {
+              "override": false,
+              "rarity": 25
+            }
+          },
+          {
+            "key": "Copper Gear",
+            "value": {
+              "override": false,
+              "rarity": 32
+            }
+          },
+          {
+            "key": "Gas Tank",
+            "value": {
+              "override": false,
+              "rarity": 32
+            }
+          },
+          {
+            "key": "Spotlight",
+            "value": {
+              "override": false,
+              "rarity": 18
+            }
+          },
+          {
+            "key": "Big Red Button",
+            "value": {
+              "override": false,
+              "rarity": 22
+            }
+          },
+          {
+            "key": "Steel Ingot",
+            "value": {
+              "override": false,
+              "rarity": 21
+            }
+          },
+          {
+            "key": "Robot Arm",
+            "value": {
+              "override": false,
+              "rarity": 11
+            }
+          },
+          {
+            "key": "Accident Log 1",
+            "value": {
+              "override": false,
+              "rarity": 7
+            }
+          },
+          {
+            "key": "Accident Log 2",
+            "value": {
+              "override": false,
+              "rarity": 7
+            }
+          },
+          {
+            "key": "Accident Log 3",
+            "value": {
+              "override": false,
+              "rarity": 7
+            }
+          },
+          {
+            "key": "Accident Log 4",
+            "value": {
+              "override": false,
+              "rarity": 7
+            }
+          },
+          {
+            "key": "Large axle",
+            "value": {
+              "override": false,
+              "rarity": 4
+            }
+          },
+          {
+            "key": "V-type engine",
+            "value": {
+              "override": false,
+              "rarity": 8
+            }
+          },
+          {
+            "key": "Metal sheet",
+            "value": {
+              "override": false,
+              "rarity": 5
+            }
+          },
+          {
+            "key": "Big bolt",
+            "value": {
+              "override": false,
+              "rarity": 25
+            }
+          },
+          {
+            "key": "Gold bar",
+            "value": {
+              "override": false,
+              "rarity": 2
+            }
+          },
+          {
+            "key": "Redstone Torch",
+            "value": {
+              "override": false,
+              "rarity": 5
+            }
+          },
+          {
+            "key": "Screwdriver",
+            "value": {
+              "override": false,
+              "rarity": 40
+            }
+          },
+          {
+            "key": "Gemstone",
+            "value": {
+              "override": false,
+              "rarity": 4
+            }
+          },
+          {
+            "key": "Harp",
+            "value": {
+              "override": false,
+              "rarity": 0
+            }
+          },
+          {
+            "key": "Army Helmet",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Army Canteen",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Gramophone",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Old Radio",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "RockingHorse",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "TypeWriter",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "WheelRim",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "WireSpool",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Weezer Guitar",
+            "value": {
+              "override": false,
+              "rarity": 10
+            }
+          },
+          {
+            "key": "giant poster",
+            "value": {
+              "override": false,
+              "rarity": 15
+            }
+          }
+        ],
+        "override_daytime_enemies_max_power": false,
+        "daytime_enemies_max_power": 16,
+        "override_daytime_enemies_probability": false,
+        "daytime_enemies_probability": 5.0,
+        "daytime_enemies": [
+          {
+            "key": "Red Locust Bees",
+            "value": {
+              "override": false,
+              "rarity": 9
+            }
+          },
+          {
+            "key": "Manticoil",
+            "value": {
+              "override": false,
+              "rarity": 66
+            }
+          },
+          {
+            "key": "Docile Locust Bees",
+            "value": {
+              "override": false,
+              "rarity": 66
+            }
+          }
+        ],
+        "override_outside_enemies_max_power": false,
+        "outside_enemies_max_power": 9,
+        "outside_enemies": [
+          {
+            "key": "MouthDog",
+            "value": {
+              "override": false,
+              "rarity": 54
+            }
+          },
+          {
+            "key": "Baboon hawk",
+            "value": {
+              "override": false,
+              "rarity": 62
+            }
+          },
+          {
+            "key": "Crawler",
+            "value": {
+              "override": false,
+              "rarity": 10
+            }
+          }
+        ],
+        "override_inside_enemies_max_power": false,
+        "inside_enemies_max_power": 13,
+        "override_inside_enemies_probability": false,
+        "inside_enemies_probability": 4.0,
+        "inside_enemies": [
+          {
+            "key": "Puffer",
+            "value": {
+              "override": false,
+              "rarity": 39
+            }
+          },
+          {
+            "key": "Crawler",
+            "value": {
+              "override": false,
+              "rarity": 31
+            }
+          },
+          {
+            "key": "Blob",
+            "value": {
+              "override": false,
+              "rarity": 24
+            }
+          },
+          {
+            "key": "Flowerman",
+            "value": {
+              "override": false,
+              "rarity": 12
+            }
+          },
+          {
+            "key": "Bunker Spider",
+            "value": {
+              "override": false,
+              "rarity": 11
+            }
+          },
+          {
+            "key": "Centipede",
+            "value": {
+              "override": false,
+              "rarity": 3
+            }
+          },
+          {
+            "key": "Girl",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Herobrine",
+            "value": {
+              "override": false,
+              "rarity": 40
+            }
+          },
+          {
+            "key": "ImmortalSnail",
+            "value": {
+              "override": false,
+              "rarity": 100
+            }
+          },
+          {
+            "key": "HarpGhost",
+            "value": {
+              "override": false,
+              "rarity": 75
+            }
+          },
+          {
+            "key": "Shrimp",
+            "value": {
+              "override": false,
+              "rarity": 15
+            }
+          },
+          {
+            "key": "RollingGiant",
+            "value": {
+              "override": false,
+              "rarity": 30
+            }
+          }
+        ]
+      }
+    },
+    {
+      "key": "154 Etern",
+      "value": {
+        "override_price": false,
+        "price": 14,
+        "override_dungeon_size": false,
+        "dungeon_size": 2.57,
+        "override_min_scrap_amount": false,
+        "min_scrap_amount": 32,
+        "override_max_scrap_amount": false,
+        "max_scrap_amount": 38,
+        "override_scrap_amount_modifier": false,
+        "scrap_amount_modifier": 1.0,
+        "override_scrap_value_modifier": false,
+        "scrap_value_modifier": 1.0,
+        "loot_table": [
+          {
+            "key": "Syringe",
+            "value": {
+              "override": false,
+              "rarity": 52
+            }
+          },
+          {
+            "key": "Test Tube",
+            "value": {
+              "override": false,
+              "rarity": 46
+            }
+          },
+          {
+            "key": "Corner Pipe",
+            "value": {
+              "override": false,
+              "rarity": 44
+            }
+          },
+          {
+            "key": "Small Pipe",
+            "value": {
+              "override": false,
+              "rarity": 40
+            }
+          },
+          {
+            "key": "Flow Pipe",
+            "value": {
+              "override": false,
+              "rarity": 36
+            }
+          },
+          {
+            "key": "Blue Test Tube",
+            "value": {
+              "override": false,
+              "rarity": 6
+            }
+          },
+          {
+            "key": "Red Test Tube",
+            "value": {
+              "override": false,
+              "rarity": 6
+            }
+          },
+          {
+            "key": "Yellow Test Tube",
+            "value": {
+              "override": false,
+              "rarity": 6
+            }
+          },
+          {
+            "key": "Green Test Tube",
+            "value": {
+              "override": false,
+              "rarity": 6
+            }
+          },
+          {
+            "key": "Nutcracker Eye",
+            "value": {
+              "override": false,
+              "rarity": 31
+            }
+          },
+          {
+            "key": "Syringe Gun",
+            "value": {
+              "override": false,
+              "rarity": 25
+            }
+          },
+          {
+            "key": "Toy Nutcracker",
+            "value": {
+              "override": false,
+              "rarity": 18
+            }
+          },
+          {
+            "key": "Test Tube Rack",
+            "value": {
+              "override": false,
+              "rarity": 12
+            }
+          },
+          {
+            "key": "Brain Jar",
+            "value": {
+              "override": false,
+              "rarity": 3
+            }
+          },
+          {
+            "key": "Flask",
+            "value": {
+              "override": false,
+              "rarity": 18
+            }
+          },
+          {
+            "key": "Comedy",
+            "value": {
+              "override": false,
+              "rarity": 6
+            }
+          },
+          {
+            "key": "Tragedy",
+            "value": {
+              "override": false,
+              "rarity": 6
+            }
+          },
+          {
+            "key": "Teeth",
+            "value": {
+              "override": false,
+              "rarity": 2
+            }
+          },
+          {
+            "key": "Chemical jug",
+            "value": {
+              "override": false,
+              "rarity": 2
+            }
+          },
+          {
+            "key": "Toy robot",
+            "value": {
+              "override": false,
+              "rarity": 2
+            }
+          },
+          {
+            "key": "Remote",
+            "value": {
+              "override": false,
+              "rarity": 2
+            }
+          },
+          {
+            "key": "Clown horn",
+            "value": {
+              "override": false,
+              "rarity": 2
+            }
+          },
+          {
+            "key": "Airhorn",
+            "value": {
+              "override": false,
+              "rarity": 2
+            }
+          },
+          {
+            "key": "Egg beater",
+            "value": {
+              "override": false,
+              "rarity": 2
+            }
+          },
+          {
+            "key": "Laser pointer",
+            "value": {
+              "override": false,
+              "rarity": 2
+            }
+          },
+          {
+            "key": "Gold bar",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Tape Player Log 1",
+            "value": {
+              "override": false,
+              "rarity": 10
+            }
+          },
+          {
+            "key": "Tape Player Log 2",
+            "value": {
+              "override": false,
+              "rarity": 10
+            }
+          },
+          {
+            "key": "Tape Player Log 3",
+            "value": {
+              "override": false,
+              "rarity": 10
+            }
+          },
+          {
+            "key": "Tape Player Log 4",
+            "value": {
+              "override": false,
+              "rarity": 10
+            }
+          },
+          {
+            "key": "Redstone Torch",
+            "value": {
+              "override": false,
+              "rarity": 3
+            }
+          },
+          {
+            "key": "Screwdriver",
+            "value": {
+              "override": false,
+              "rarity": 40
+            }
+          },
+          {
+            "key": "Gemstone",
+            "value": {
+              "override": false,
+              "rarity": 4
+            }
+          },
+          {
+            "key": "Harp",
+            "value": {
+              "override": false,
+              "rarity": 0
+            }
+          },
+          {
+            "key": "Army Helmet",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Army Canteen",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Gramophone",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Old Radio",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "RockingHorse",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "TypeWriter",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "WheelRim",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "WireSpool",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Weezer Guitar",
+            "value": {
+              "override": false,
+              "rarity": 10
+            }
+          },
+          {
+            "key": "giant poster",
+            "value": {
+              "override": false,
+              "rarity": 15
+            }
+          }
+        ],
+        "override_daytime_enemies_max_power": false,
+        "daytime_enemies_max_power": 22,
+        "override_daytime_enemies_probability": false,
+        "daytime_enemies_probability": 5.0,
+        "daytime_enemies": [
+          {
+            "key": "Red Locust Bees",
+            "value": {
+              "override": false,
+              "rarity": 52
+            }
+          },
+          {
+            "key": "Docile Locust Bees",
+            "value": {
+              "override": false,
+              "rarity": 30
+            }
+          },
+          {
+            "key": "Manticoil",
+            "value": {
+              "override": false,
+              "rarity": 62
+            }
+          },
+          {
+            "key": "Nutcracker",
+            "value": {
+              "override": false,
+              "rarity": 6
+            }
+          }
+        ],
+        "override_outside_enemies_max_power": false,
+        "outside_enemies_max_power": 10,
+        "outside_enemies": [
+          {
+            "key": "ForestGiant",
+            "value": {
+              "override": false,
+              "rarity": 70
+            }
+          },
+          {
+            "key": "Baboon hawk",
+            "value": {
+              "override": false,
+              "rarity": 2
+            }
+          },
+          {
+            "key": "Nutcracker",
+            "value": {
+              "override": false,
+              "rarity": 22
+            }
+          }
+        ],
+        "override_inside_enemies_max_power": false,
+        "inside_enemies_max_power": 20,
+        "override_inside_enemies_probability": false,
+        "inside_enemies_probability": 25.8,
+        "inside_enemies": [
+          {
+            "key": "Centipede",
+            "value": {
+              "override": false,
+              "rarity": 75
+            }
+          },
+          {
+            "key": "Blob",
+            "value": {
+              "override": false,
+              "rarity": 74
+            }
+          },
+          {
+            "key": "Masked",
+            "value": {
+              "override": false,
+              "rarity": 72
+            }
+          },
+          {
+            "key": "Nutcracker",
+            "value": {
+              "override": false,
+              "rarity": 49
+            }
+          },
+          {
+            "key": "Crawler",
+            "value": {
+              "override": false,
+              "rarity": 24
+            }
+          },
+          {
+            "key": "Spring",
+            "value": {
+              "override": false,
+              "rarity": 12
+            }
+          },
+          {
+            "key": "Jester",
+            "value": {
+              "override": false,
+              "rarity": 9
+            }
+          },
+          {
+            "key": "Herobrine",
+            "value": {
+              "override": false,
+              "rarity": 55
+            }
+          },
+          {
+            "key": "ImmortalSnail",
+            "value": {
+              "override": false,
+              "rarity": 100
+            }
+          },
+          {
+            "key": "HarpGhost",
+            "value": {
+              "override": false,
+              "rarity": 75
+            }
+          },
+          {
+            "key": "Shrimp",
+            "value": {
+              "override": false,
+              "rarity": 15
+            }
+          },
+          {
+            "key": "RollingGiant",
+            "value": {
+              "override": false,
+              "rarity": 30
+            }
+          }
+        ]
+      }
+    },
+    {
+      "key": "21 Offense",
+      "value": {
+        "override_price": false,
+        "price": 0,
+        "override_dungeon_size": false,
+        "dungeon_size": 1.25,
+        "override_min_scrap_amount": false,
+        "min_scrap_amount": 14,
+        "override_max_scrap_amount": false,
+        "max_scrap_amount": 18,
+        "override_scrap_amount_modifier": false,
+        "scrap_amount_modifier": 1.0,
+        "override_scrap_value_modifier": false,
+        "scrap_value_modifier": 1.0,
+        "loot_table": [
+          {
+            "key": "Large axle",
+            "value": {
+              "override": false,
+              "rarity": 94
+            }
+          },
+          {
+            "key": "V-type engine",
+            "value": {
+              "override": false,
+              "rarity": 80
+            }
+          },
+          {
+            "key": "Plastic fish",
+            "value": {
+              "override": false,
+              "rarity": 28
+            }
+          },
+          {
+            "key": "Metal sheet",
+            "value": {
+              "override": false,
+              "rarity": 100
+            }
+          },
+          {
+            "key": "Big bolt",
+            "value": {
+              "override": false,
+              "rarity": 89
+            }
+          },
+          {
+            "key": "Toy cube",
+            "value": {
+              "override": false,
+              "rarity": 13
+            }
+          },
+          {
+            "key": "Laser pointer",
+            "value": {
+              "override": false,
+              "rarity": 10
+            }
+          },
+          {
+            "key": "Bottles",
+            "value": {
+              "override": false,
+              "rarity": 52
+            }
+          },
+          {
+            "key": "Remote",
+            "value": {
+              "override": false,
+              "rarity": 15
+            }
+          },
+          {
+            "key": "Cookie mold pan",
+            "value": {
+              "override": false,
+              "rarity": 6
+            }
+          },
+          {
+            "key": "Toy robot",
+            "value": {
+              "override": false,
+              "rarity": 9
+            }
+          },
+          {
+            "key": "Magnifying glass",
+            "value": {
+              "override": false,
+              "rarity": 14
+            }
+          },
+          {
+            "key": "Stop sign",
+            "value": {
+              "override": false,
+              "rarity": 27
+            }
+          },
+          {
+            "key": "Tea kettle",
+            "value": {
+              "override": false,
+              "rarity": 24
+            }
+          },
+          {
+            "key": "Teeth",
+            "value": {
+              "override": false,
+              "rarity": 11
+            }
+          },
+          {
+            "key": "Old phone",
+            "value": {
+              "override": false,
+              "rarity": 8
+            }
+          },
+          {
+            "key": "Airhorn",
+            "value": {
+              "override": false,
+              "rarity": 15
+            }
+          },
+          {
+            "key": "Clown horn",
+            "value": {
+              "override": false,
+              "rarity": 18
+            }
+          },
+          {
+            "key": "Yield sign",
+            "value": {
+              "override": false,
+              "rarity": 12
+            }
+          },
+          {
+            "key": "Homemade flashbang",
+            "value": {
+              "override": false,
+              "rarity": 11
+            }
+          },
+          {
+            "key": "Gift",
+            "value": {
+              "override": false,
+              "rarity": 19
+            }
+          },
+          {
+            "key": "Bunny ears",
+            "value": {
+              "override": false,
+              "rarity": 2
+            }
+          },
+          {
+            "key": "Toy car",
+            "value": {
+              "override": false,
+              "rarity": 10
+            }
+          },
+          {
+            "key": "Toy tank",
+            "value": {
+              "override": false,
+              "rarity": 10
+            }
+          },
+          {
+            "key": "Warplane toy",
+            "value": {
+              "override": false,
+              "rarity": 10
+            }
+          },
+          {
+            "key": "Skillet",
+            "value": {
+              "override": false,
+              "rarity": 10
+            }
+          },
+          {
+            "key": "Controller",
+            "value": {
+              "override": false,
+              "rarity": 2
+            }
+          },
+          {
+            "key": "Redstone Torch",
+            "value": {
+              "override": false,
+              "rarity": 6
+            }
+          },
+          {
+            "key": "Screwdriver",
+            "value": {
+              "override": false,
+              "rarity": 40
+            }
+          },
+          {
+            "key": "Gemstone",
+            "value": {
+              "override": false,
+              "rarity": 4
+            }
+          },
+          {
+            "key": "Harp",
+            "value": {
+              "override": false,
+              "rarity": 0
+            }
+          },
+          {
+            "key": "Army Helmet",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Army Canteen",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Gramophone",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Old Radio",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "RockingHorse",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "TypeWriter",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "WheelRim",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "WireSpool",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Weezer Guitar",
+            "value": {
+              "override": false,
+              "rarity": 10
+            }
+          },
+          {
+            "key": "giant poster",
+            "value": {
+              "override": false,
+              "rarity": 15
+            }
+          }
+        ],
+        "override_daytime_enemies_max_power": false,
+        "daytime_enemies_max_power": 20,
+        "override_daytime_enemies_probability": false,
+        "daytime_enemies_probability": 10.0,
+        "daytime_enemies": [
+          {
+            "key": "Manticoil",
+            "value": {
+              "override": false,
+              "rarity": 100
+            }
+          }
+        ],
+        "override_outside_enemies_max_power": false,
+        "outside_enemies_max_power": 8,
+        "outside_enemies": [
+          {
+            "key": "MouthDog",
+            "value": {
+              "override": false,
+              "rarity": 100
+            }
+          },
+          {
+            "key": "ForestGiant",
+            "value": {
+              "override": false,
+              "rarity": 9
+            }
+          },
+          {
+            "key": "Earth Leviathan",
+            "value": {
+              "override": false,
+              "rarity": 37
+            }
+          },
+          {
+            "key": "Baboon hawk",
+            "value": {
+              "override": false,
+              "rarity": 60
+            }
+          }
+        ],
+        "override_inside_enemies_max_power": false,
+        "inside_enemies_max_power": 12,
+        "override_inside_enemies_probability": false,
+        "inside_enemies_probability": 4.0,
+        "inside_enemies": [
+          {
+            "key": "Centipede",
+            "value": {
+              "override": false,
+              "rarity": 27
+            }
+          },
+          {
+            "key": "Bunker Spider",
+            "value": {
+              "override": false,
+              "rarity": 44
+            }
+          },
+          {
+            "key": "Hoarding bug",
+            "value": {
+              "override": false,
+              "rarity": 16
+            }
+          },
+          {
+            "key": "Flowerman",
+            "value": {
+              "override": false,
+              "rarity": 3
+            }
+          },
+          {
+            "key": "Crawler",
+            "value": {
+              "override": false,
+              "rarity": 55
+            }
+          },
+          {
+            "key": "Blob",
+            "value": {
+              "override": false,
+              "rarity": 32
+            }
+          },
+          {
+            "key": "Spring",
+            "value": {
+              "override": false,
+              "rarity": 25
+            }
+          },
+          {
+            "key": "Puffer",
+            "value": {
+              "override": false,
+              "rarity": 7
+            }
+          },
+          {
+            "key": "Nutcracker",
+            "value": {
+              "override": false,
+              "rarity": 2
+            }
+          },
+          {
+            "key": "Walker",
+            "value": {
+              "override": false,
+              "rarity": 10
+            }
+          },
+          {
+            "key": "Herobrine",
+            "value": {
+              "override": false,
+              "rarity": 30
+            }
+          },
+          {
+            "key": "ImmortalSnail",
+            "value": {
+              "override": false,
+              "rarity": 100
+            }
+          },
+          {
+            "key": "HarpGhost",
+            "value": {
+              "override": false,
+              "rarity": 75
+            }
+          },
+          {
+            "key": "Shrimp",
+            "value": {
+              "override": false,
+              "rarity": 15
+            }
+          },
+          {
+            "key": "RollingGiant",
+            "value": {
+              "override": false,
+              "rarity": 30
+            }
+          }
+        ]
+      }
+    },
+    {
+      "key": "220 Assurance",
+      "value": {
+        "override_price": false,
+        "price": 0,
+        "override_dungeon_size": false,
+        "dungeon_size": 1.0,
+        "override_min_scrap_amount": false,
+        "min_scrap_amount": 13,
+        "override_max_scrap_amount": false,
+        "max_scrap_amount": 17,
+        "override_scrap_amount_modifier": false,
+        "scrap_amount_modifier": 1.0,
+        "override_scrap_value_modifier": false,
+        "scrap_value_modifier": 1.0,
+        "loot_table": [
+          {
+            "key": "Large axle",
+            "value": {
+              "override": false,
+              "rarity": 30
+            }
+          },
+          {
+            "key": "V-type engine",
+            "value": {
+              "override": false,
+              "rarity": 40
+            }
+          },
+          {
+            "key": "Plastic fish",
+            "value": {
+              "override": false,
+              "rarity": 10
+            }
+          },
+          {
+            "key": "Metal sheet",
+            "value": {
+              "override": false,
+              "rarity": 23
+            }
+          },
+          {
+            "key": "Big bolt",
+            "value": {
+              "override": false,
+              "rarity": 59
+            }
+          },
+          {
+            "key": "Toy cube",
+            "value": {
+              "override": false,
+              "rarity": 24
+            }
+          },
+          {
+            "key": "Laser pointer",
+            "value": {
+              "override": false,
+              "rarity": 8
+            }
+          },
+          {
+            "key": "Bottles",
+            "value": {
+              "override": false,
+              "rarity": 111
+            }
+          },
+          {
+            "key": "Remote",
+            "value": {
+              "override": false,
+              "rarity": 13
+            }
+          },
+          {
+            "key": "Cookie mold pan",
+            "value": {
+              "override": false,
+              "rarity": 49
+            }
+          },
+          {
+            "key": "Toy robot",
+            "value": {
+              "override": false,
+              "rarity": 6
+            }
+          },
+          {
+            "key": "Magnifying glass",
+            "value": {
+              "override": false,
+              "rarity": 21
+            }
+          },
+          {
+            "key": "Stop sign",
+            "value": {
+              "override": false,
+              "rarity": 34
+            }
+          },
+          {
+            "key": "Tea kettle",
+            "value": {
+              "override": false,
+              "rarity": 32
+            }
+          },
+          {
+            "key": "Jar of pickles",
+            "value": {
+              "override": false,
+              "rarity": 20
+            }
+          },
+          {
+            "key": "Mug",
+            "value": {
+              "override": false,
+              "rarity": 12
+            }
+          },
+          {
+            "key": "Red soda",
+            "value": {
+              "override": false,
+              "rarity": 12
+            }
+          },
+          {
+            "key": "Steering wheel",
+            "value": {
+              "override": false,
+              "rarity": 12
+            }
+          },
+          {
+            "key": "Old phone",
+            "value": {
+              "override": false,
+              "rarity": 7
+            }
+          },
+          {
+            "key": "Hairdryer",
+            "value": {
+              "override": false,
+              "rarity": 4
+            }
+          },
+          {
+            "key": "Egg beater",
+            "value": {
+              "override": false,
+              "rarity": 34
+            }
+          },
+          {
+            "key": "Brush",
+            "value": {
+              "override": false,
+              "rarity": 26
+            }
+          },
+          {
+            "key": "Bell",
+            "value": {
+              "override": false,
+              "rarity": 28
+            }
+          },
+          {
+            "key": "Clown horn",
+            "value": {
+              "override": false,
+              "rarity": 10
+            }
+          },
+          {
+            "key": "Airhorn",
+            "value": {
+              "override": false,
+              "rarity": 10
+            }
+          },
+          {
+            "key": "Cash register",
+            "value": {
+              "override": false,
+              "rarity": 3
+            }
+          },
+          {
+            "key": "Yield sign",
+            "value": {
+              "override": false,
+              "rarity": 17
+            }
+          },
+          {
+            "key": "Homemade flashbang",
+            "value": {
+              "override": false,
+              "rarity": 14
+            }
+          },
+          {
+            "key": "Gift",
+            "value": {
+              "override": false,
+              "rarity": 20
+            }
+          },
+          {
+            "key": "Flask",
+            "value": {
+              "override": false,
+              "rarity": 12
+            }
+          },
+          {
+            "key": "Whoopie cushion",
+            "value": {
+              "override": false,
+              "rarity": 11
+            }
+          },
+          {
+            "key": "Comedy",
+            "value": {
+              "override": false,
+              "rarity": 5
+            }
+          },
+          {
+            "key": "Tragedy",
+            "value": {
+              "override": false,
+              "rarity": 3
+            }
+          },
+          {
+            "key": "Bunny ears",
+            "value": {
+              "override": false,
+              "rarity": 2
+            }
+          },
+          {
+            "key": "Toy car",
+            "value": {
+              "override": false,
+              "rarity": 10
+            }
+          },
+          {
+            "key": "Toy tank",
+            "value": {
+              "override": false,
+              "rarity": 10
+            }
+          },
+          {
+            "key": "Warplane toy",
+            "value": {
+              "override": false,
+              "rarity": 10
+            }
+          },
+          {
+            "key": "Skillet",
+            "value": {
+              "override": false,
+              "rarity": 10
+            }
+          },
+          {
+            "key": "Controller",
+            "value": {
+              "override": false,
+              "rarity": 4
+            }
+          },
+          {
+            "key": "Redstone Torch",
+            "value": {
+              "override": false,
+              "rarity": 4
+            }
+          },
+          {
+            "key": "Screwdriver",
+            "value": {
+              "override": false,
+              "rarity": 40
+            }
+          },
+          {
+            "key": "Gemstone",
+            "value": {
+              "override": false,
+              "rarity": 4
+            }
+          },
+          {
+            "key": "Harp",
+            "value": {
+              "override": false,
+              "rarity": 0
+            }
+          },
+          {
+            "key": "Army Helmet",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Army Canteen",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Gramophone",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Old Radio",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "RockingHorse",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "TypeWriter",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "WheelRim",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "WireSpool",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Weezer Guitar",
+            "value": {
+              "override": false,
+              "rarity": 10
+            }
+          },
+          {
+            "key": "giant poster",
+            "value": {
+              "override": false,
+              "rarity": 15
+            }
+          }
+        ],
+        "override_daytime_enemies_max_power": false,
+        "daytime_enemies_max_power": 7,
+        "override_daytime_enemies_probability": false,
+        "daytime_enemies_probability": 10.0,
+        "daytime_enemies": [
+          {
+            "key": "Manticoil",
+            "value": {
+              "override": false,
+              "rarity": 100
+            }
+          },
+          {
+            "key": "Docile Locust Bees",
+            "value": {
+              "override": false,
+              "rarity": 58
+            }
+          },
+          {
+            "key": "Red Locust Bees",
+            "value": {
+              "override": false,
+              "rarity": 43
+            }
+          }
+        ],
+        "override_outside_enemies_max_power": false,
+        "outside_enemies_max_power": 8,
+        "outside_enemies": [
+          {
+            "key": "MouthDog",
+            "value": {
+              "override": false,
+              "rarity": 78
+            }
+          },
+          {
+            "key": "ForestGiant",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Earth Leviathan",
+            "value": {
+              "override": false,
+              "rarity": 95
+            }
+          },
+          {
+            "key": "Baboon hawk",
+            "value": {
+              "override": false,
+              "rarity": 20
+            }
+          }
+        ],
+        "override_inside_enemies_max_power": false,
+        "inside_enemies_max_power": 6,
+        "override_inside_enemies_probability": false,
+        "inside_enemies_probability": 3.0,
+        "inside_enemies": [
+          {
+            "key": "Centipede",
+            "value": {
+              "override": false,
+              "rarity": 93
+            }
+          },
+          {
+            "key": "Bunker Spider",
+            "value": {
+              "override": false,
+              "rarity": 69
+            }
+          },
+          {
+            "key": "Hoarding bug",
+            "value": {
+              "override": false,
+              "rarity": 78
+            }
+          },
+          {
+            "key": "Flowerman",
+            "value": {
+              "override": false,
+              "rarity": 14
+            }
+          },
+          {
+            "key": "Crawler",
+            "value": {
+              "override": false,
+              "rarity": 24
+            }
+          },
+          {
+            "key": "Blob",
+            "value": {
+              "override": false,
+              "rarity": 28
+            }
+          },
+          {
+            "key": "Girl",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Puffer",
+            "value": {
+              "override": false,
+              "rarity": 14
+            }
+          },
+          {
+            "key": "Nutcracker",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Walker",
+            "value": {
+              "override": false,
+              "rarity": 10
+            }
+          },
+          {
+            "key": "Herobrine",
+            "value": {
+              "override": false,
+              "rarity": 5
+            }
+          },
+          {
+            "key": "ImmortalSnail",
+            "value": {
+              "override": false,
+              "rarity": 100
+            }
+          },
+          {
+            "key": "HarpGhost",
+            "value": {
+              "override": false,
+              "rarity": 75
+            }
+          },
+          {
+            "key": "Shrimp",
+            "value": {
+              "override": false,
+              "rarity": 15
+            }
+          },
+          {
+            "key": "RollingGiant",
+            "value": {
+              "override": false,
+              "rarity": 30
+            }
+          }
+        ]
+      }
+    },
+    {
+      "key": "41 Experimentation",
+      "value": {
+        "override_price": false,
+        "price": 0,
+        "override_dungeon_size": false,
+        "dungeon_size": 1.0,
+        "override_min_scrap_amount": false,
+        "min_scrap_amount": 8,
+        "override_max_scrap_amount": false,
+        "max_scrap_amount": 12,
+        "override_scrap_amount_modifier": false,
+        "scrap_amount_modifier": 1.0,
+        "override_scrap_value_modifier": false,
+        "scrap_value_modifier": 1.0,
+        "loot_table": [
+          {
+            "key": "Large axle",
+            "value": {
+              "override": false,
+              "rarity": 80
+            }
+          },
+          {
+            "key": "V-type engine",
+            "value": {
+              "override": false,
+              "rarity": 90
+            }
+          },
+          {
+            "key": "Plastic fish",
+            "value": {
+              "override": false,
+              "rarity": 12
+            }
+          },
+          {
+            "key": "Metal sheet",
+            "value": {
+              "override": false,
+              "rarity": 88
+            }
+          },
+          {
+            "key": "Laser pointer",
+            "value": {
+              "override": false,
+              "rarity": 4
+            }
+          },
+          {
+            "key": "Big bolt",
+            "value": {
+              "override": false,
+              "rarity": 80
+            }
+          },
+          {
+            "key": "Bottles",
+            "value": {
+              "override": false,
+              "rarity": 19
+            }
+          },
+          {
+            "key": "Ring",
+            "value": {
+              "override": false,
+              "rarity": 3
+            }
+          },
+          {
+            "key": "Steering wheel",
+            "value": {
+              "override": false,
+              "rarity": 32
+            }
+          },
+          {
+            "key": "Cookie mold pan",
+            "value": {
+              "override": false,
+              "rarity": 5
+            }
+          },
+          {
+            "key": "Egg beater",
+            "value": {
+              "override": false,
+              "rarity": 10
+            }
+          },
+          {
+            "key": "Jar of pickles",
+            "value": {
+              "override": false,
+              "rarity": 10
+            }
+          },
+          {
+            "key": "Dust pan",
+            "value": {
+              "override": false,
+              "rarity": 32
+            }
+          },
+          {
+            "key": "Airhorn",
+            "value": {
+              "override": false,
+              "rarity": 3
+            }
+          },
+          {
+            "key": "Clown horn",
+            "value": {
+              "override": false,
+              "rarity": 3
+            }
+          },
+          {
+            "key": "Cash register",
+            "value": {
+              "override": false,
+              "rarity": 3
+            }
+          },
+          {
+            "key": "Candy",
+            "value": {
+              "override": false,
+              "rarity": 2
+            }
+          },
+          {
+            "key": "Gold bar",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Yield sign",
+            "value": {
+              "override": false,
+              "rarity": 6
+            }
+          },
+          {
+            "key": "Homemade flashbang",
+            "value": {
+              "override": false,
+              "rarity": 22
+            }
+          },
+          {
+            "key": "Gift",
+            "value": {
+              "override": false,
+              "rarity": 17
+            }
+          },
+          {
+            "key": "Flask",
+            "value": {
+              "override": false,
+              "rarity": 42
+            }
+          },
+          {
+            "key": "Bunny ears",
+            "value": {
+              "override": false,
+              "rarity": 2
+            }
+          },
+          {
+            "key": "Toy car",
+            "value": {
+              "override": false,
+              "rarity": 10
+            }
+          },
+          {
+            "key": "Toy tank",
+            "value": {
+              "override": false,
+              "rarity": 10
+            }
+          },
+          {
+            "key": "Warplane toy",
+            "value": {
+              "override": false,
+              "rarity": 10
+            }
+          },
+          {
+            "key": "Skillet",
+            "value": {
+              "override": false,
+              "rarity": 10
+            }
+          },
+          {
+            "key": "Controller",
+            "value": {
+              "override": false,
+              "rarity": 4
+            }
+          },
+          {
+            "key": "Redstone Torch",
+            "value": {
+              "override": false,
+              "rarity": 5
+            }
+          },
+          {
+            "key": "Screwdriver",
+            "value": {
+              "override": false,
+              "rarity": 40
+            }
+          },
+          {
+            "key": "Gemstone",
+            "value": {
+              "override": false,
+              "rarity": 4
+            }
+          },
+          {
+            "key": "Harp",
+            "value": {
+              "override": false,
+              "rarity": 0
+            }
+          },
+          {
+            "key": "Army Helmet",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Army Canteen",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Gramophone",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Old Radio",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "RockingHorse",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "TypeWriter",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "WheelRim",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "WireSpool",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Weezer Guitar",
+            "value": {
+              "override": false,
+              "rarity": 10
+            }
+          },
+          {
+            "key": "giant poster",
+            "value": {
+              "override": false,
+              "rarity": 15
+            }
+          }
+        ],
+        "override_daytime_enemies_max_power": false,
+        "daytime_enemies_max_power": 5,
+        "override_daytime_enemies_probability": false,
+        "daytime_enemies_probability": 5.0,
+        "daytime_enemies": [
+          {
+            "key": "Red Locust Bees",
+            "value": {
+              "override": false,
+              "rarity": 22
+            }
+          },
+          {
+            "key": "Manticoil",
+            "value": {
+              "override": false,
+              "rarity": 74
+            }
+          },
+          {
+            "key": "Docile Locust Bees",
+            "value": {
+              "override": false,
+              "rarity": 52
+            }
+          },
+          {
+            "key": "Peeper",
+            "value": {
+              "override": false,
+              "rarity": 0
+            }
+          }
+        ],
+        "override_outside_enemies_max_power": false,
+        "outside_enemies_max_power": 8,
+        "outside_enemies": [
+          {
+            "key": "MouthDog",
+            "value": {
+              "override": false,
+              "rarity": 75
+            }
+          },
+          {
+            "key": "ForestGiant",
+            "value": {
+              "override": false,
+              "rarity": 0
+            }
+          },
+          {
+            "key": "Earth Leviathan",
+            "value": {
+              "override": false,
+              "rarity": 56
+            }
+          }
+        ],
+        "override_inside_enemies_max_power": false,
+        "inside_enemies_max_power": 4,
+        "override_inside_enemies_probability": false,
+        "inside_enemies_probability": 4.0,
+        "inside_enemies": [
+          {
+            "key": "Centipede",
+            "value": {
+              "override": false,
+              "rarity": 51
+            }
+          },
+          {
+            "key": "Bunker Spider",
+            "value": {
+              "override": false,
+              "rarity": 58
+            }
+          },
+          {
+            "key": "Hoarding bug",
+            "value": {
+              "override": false,
+              "rarity": 28
+            }
+          },
+          {
+            "key": "Flowerman",
+            "value": {
+              "override": false,
+              "rarity": 13
+            }
+          },
+          {
+            "key": "Crawler",
+            "value": {
+              "override": false,
+              "rarity": 16
+            }
+          },
+          {
+            "key": "Blob",
+            "value": {
+              "override": false,
+              "rarity": 31
+            }
+          },
+          {
+            "key": "Girl",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Puffer",
+            "value": {
+              "override": false,
+              "rarity": 28
+            }
+          },
+          {
+            "key": "Nutcracker",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Walker",
+            "value": {
+              "override": false,
+              "rarity": 10
+            }
+          },
+          {
+            "key": "Herobrine",
+            "value": {
+              "override": false,
+              "rarity": 30
+            }
+          },
+          {
+            "key": "ImmortalSnail",
+            "value": {
+              "override": false,
+              "rarity": 100
+            }
+          },
+          {
+            "key": "HarpGhost",
+            "value": {
+              "override": false,
+              "rarity": 75
+            }
+          },
+          {
+            "key": "Shrimp",
+            "value": {
+              "override": false,
+              "rarity": 15
+            }
+          },
+          {
+            "key": "RollingGiant",
+            "value": {
+              "override": false,
+              "rarity": 30
+            }
+          }
+        ]
+      }
+    },
+    {
+      "key": "42 Cosmocos",
+      "value": {
+        "override_price": false,
+        "price": 10000,
+        "override_dungeon_size": false,
+        "dungeon_size": 2.3,
+        "override_min_scrap_amount": false,
+        "min_scrap_amount": 30,
+        "override_max_scrap_amount": false,
+        "max_scrap_amount": 33,
+        "override_scrap_amount_modifier": false,
+        "scrap_amount_modifier": 1.0,
+        "override_scrap_value_modifier": false,
+        "scrap_value_modifier": 1.0,
+        "loot_table": [
+          {
+            "key": "Petri Dish",
+            "value": {
+              "override": false,
+              "rarity": 32
+            }
+          },
+          {
+            "key": "Grown Petri Dish",
+            "value": {
+              "override": false,
+              "rarity": 30
+            }
+          },
+          {
+            "key": "Cosmic Shard",
+            "value": {
+              "override": false,
+              "rarity": 30
+            }
+          },
+          {
+            "key": "Cosmic Growth",
+            "value": {
+              "override": false,
+              "rarity": 29
+            }
+          },
+          {
+            "key": "Bucket of Shards",
+            "value": {
+              "override": false,
+              "rarity": 23
+            }
+          },
+          {
+            "key": "Lil Cosmo",
+            "value": {
+              "override": false,
+              "rarity": 20
+            }
+          },
+          {
+            "key": "Cosmic Flashlight",
+            "value": {
+              "override": false,
+              "rarity": 15
+            }
+          },
+          {
+            "key": "Glasses",
+            "value": {
+              "override": false,
+              "rarity": 13
+            }
+          },
+          {
+            "key": "Crescent of Curses",
+            "value": {
+              "override": false,
+              "rarity": 5
+            }
+          },
+          {
+            "key": "Forgotten Log 1",
+            "value": {
+              "override": false,
+              "rarity": 11
+            }
+          },
+          {
+            "key": "Forgotten Log 2",
+            "value": {
+              "override": false,
+              "rarity": 11
+            }
+          },
+          {
+            "key": "Forgotten Log 3",
+            "value": {
+              "override": false,
+              "rarity": 11
+            }
+          },
+          {
+            "key": "Chunk of Celestial Brain",
+            "value": {
+              "override": false,
+              "rarity": 3
+            }
+          },
+          {
+            "key": "Flask",
+            "value": {
+              "override": false,
+              "rarity": 4
+            }
+          },
+          {
+            "key": "Magnifying glass",
+            "value": {
+              "override": false,
+              "rarity": 4
+            }
+          },
+          {
+            "key": "Stop sign",
+            "value": {
+              "override": false,
+              "rarity": 4
+            }
+          },
+          {
+            "key": "Homemade flashbang",
+            "value": {
+              "override": false,
+              "rarity": 4
+            }
+          },
+          {
+            "key": "Big bolt",
+            "value": {
+              "override": false,
+              "rarity": 4
+            }
+          },
+          {
+            "key": "Redstone Torch",
+            "value": {
+              "override": false,
+              "rarity": 3
+            }
+          },
+          {
+            "key": "Screwdriver",
+            "value": {
+              "override": false,
+              "rarity": 40
+            }
+          },
+          {
+            "key": "Gemstone",
+            "value": {
+              "override": false,
+              "rarity": 4
+            }
+          },
+          {
+            "key": "Harp",
+            "value": {
+              "override": false,
+              "rarity": 0
+            }
+          },
+          {
+            "key": "Army Helmet",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Army Canteen",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Gramophone",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Old Radio",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "RockingHorse",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "TypeWriter",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "WheelRim",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "WireSpool",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Weezer Guitar",
+            "value": {
+              "override": false,
+              "rarity": 10
+            }
+          },
+          {
+            "key": "giant poster",
+            "value": {
+              "override": false,
+              "rarity": 15
+            }
+          }
+        ],
+        "override_daytime_enemies_max_power": false,
+        "daytime_enemies_max_power": 6,
+        "override_daytime_enemies_probability": false,
+        "daytime_enemies_probability": 5.0,
+        "daytime_enemies": [
+          {
+            "key": "Docile Locust Bees",
+            "value": {
+              "override": false,
+              "rarity": 70
+            }
+          },
+          {
+            "key": "Flowerman",
+            "value": {
+              "override": false,
+              "rarity": 100
+            }
+          }
+        ],
+        "override_outside_enemies_max_power": false,
+        "outside_enemies_max_power": 6,
+        "outside_enemies": [
+          {
+            "key": "Flowerman",
+            "value": {
+              "override": false,
+              "rarity": 79
+            }
+          },
+          {
+            "key": "ForestGiant",
+            "value": {
+              "override": false,
+              "rarity": 27
+            }
+          },
+          {
+            "key": "Jester",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          }
+        ],
+        "override_inside_enemies_max_power": false,
+        "inside_enemies_max_power": 22,
+        "override_inside_enemies_probability": false,
+        "inside_enemies_probability": 4.0,
+        "inside_enemies": [
+          {
+            "key": "Centipede",
+            "value": {
+              "override": false,
+              "rarity": 44
+            }
+          },
+          {
+            "key": "Bunker Spider",
+            "value": {
+              "override": false,
+              "rarity": 44
+            }
+          },
+          {
+            "key": "Hoarding bug",
+            "value": {
+              "override": false,
+              "rarity": 44
+            }
+          },
+          {
+            "key": "Puffer",
+            "value": {
+              "override": false,
+              "rarity": 39
+            }
+          },
+          {
+            "key": "Flowerman",
+            "value": {
+              "override": false,
+              "rarity": 16
+            }
+          },
+          {
+            "key": "Spring",
+            "value": {
+              "override": false,
+              "rarity": 8
+            }
+          },
+          {
+            "key": "MouthDog",
+            "value": {
+              "override": false,
+              "rarity": 5
+            }
+          },
+          {
+            "key": "Girl",
+            "value": {
+              "override": false,
+              "rarity": 3
+            }
+          },
+          {
+            "key": "Jester",
+            "value": {
+              "override": false,
+              "rarity": 3
+            }
+          },
+          {
+            "key": "Herobrine",
+            "value": {
+              "override": false,
+              "rarity": 100
+            }
+          },
+          {
+            "key": "ImmortalSnail",
+            "value": {
+              "override": false,
+              "rarity": 100
+            }
+          },
+          {
+            "key": "HarpGhost",
+            "value": {
+              "override": false,
+              "rarity": 75
+            }
+          },
+          {
+            "key": "Shrimp",
+            "value": {
+              "override": false,
+              "rarity": 15
+            }
+          },
+          {
+            "key": "RollingGiant",
+            "value": {
+              "override": false,
+              "rarity": 30
+            }
+          }
+        ]
+      }
+    },
+    {
+      "key": "43 Atlantica",
+      "value": {
+        "override_price": false,
+        "price": 4,
+        "override_dungeon_size": false,
+        "dungeon_size": 1.23,
+        "override_min_scrap_amount": false,
+        "min_scrap_amount": 20,
+        "override_max_scrap_amount": false,
+        "max_scrap_amount": 25,
+        "override_scrap_amount_modifier": false,
+        "scrap_amount_modifier": 1.0,
+        "override_scrap_value_modifier": false,
+        "scrap_value_modifier": 1.0,
+        "loot_table": [
+          {
+            "key": "Clam",
+            "value": {
+              "override": false,
+              "rarity": 47
+            }
+          },
+          {
+            "key": "Fish Bones",
+            "value": {
+              "override": false,
+              "rarity": 43
+            }
+          },
+          {
+            "key": "Horned Shell",
+            "value": {
+              "override": false,
+              "rarity": 37
+            }
+          },
+          {
+            "key": "Map of Cosmocos",
+            "value": {
+              "override": false,
+              "rarity": 29
+            }
+          },
+          {
+            "key": "Turtle Shell",
+            "value": {
+              "override": false,
+              "rarity": 26
+            }
+          },
+          {
+            "key": "Porcelain Teacup",
+            "value": {
+              "override": false,
+              "rarity": 29
+            }
+          },
+          {
+            "key": "Marble",
+            "value": {
+              "override": false,
+              "rarity": 26
+            }
+          },
+          {
+            "key": "Glowing Orb",
+            "value": {
+              "override": false,
+              "rarity": 15
+            }
+          },
+          {
+            "key": "Porcelain Bottle",
+            "value": {
+              "override": false,
+              "rarity": 15
+            }
+          },
+          {
+            "key": "Porcelain Perfume Bottle",
+            "value": {
+              "override": false,
+              "rarity": 11
+            }
+          },
+          {
+            "key": "Leviathan Tooth",
+            "value": {
+              "override": false,
+              "rarity": 6
+            }
+          },
+          {
+            "key": "Golden Skull",
+            "value": {
+              "override": false,
+              "rarity": 4
+            }
+          },
+          {
+            "key": "Plastic fish",
+            "value": {
+              "override": false,
+              "rarity": 7
+            }
+          },
+          {
+            "key": "Jar of pickles",
+            "value": {
+              "override": false,
+              "rarity": 3
+            }
+          },
+          {
+            "key": "Bell",
+            "value": {
+              "override": false,
+              "rarity": 4
+            }
+          },
+          {
+            "key": "Gift",
+            "value": {
+              "override": false,
+              "rarity": 3
+            }
+          },
+          {
+            "key": "Wet Note 1",
+            "value": {
+              "override": false,
+              "rarity": 7
+            }
+          },
+          {
+            "key": "Wet Note 2",
+            "value": {
+              "override": false,
+              "rarity": 7
+            }
+          },
+          {
+            "key": "Wet Note 3",
+            "value": {
+              "override": false,
+              "rarity": 7
+            }
+          },
+          {
+            "key": "Wet Note 4",
+            "value": {
+              "override": false,
+              "rarity": 7
+            }
+          },
+          {
+            "key": "Redstone Torch",
+            "value": {
+              "override": false,
+              "rarity": 4
+            }
+          },
+          {
+            "key": "Screwdriver",
+            "value": {
+              "override": false,
+              "rarity": 40
+            }
+          },
+          {
+            "key": "Gemstone",
+            "value": {
+              "override": false,
+              "rarity": 4
+            }
+          },
+          {
+            "key": "Harp",
+            "value": {
+              "override": false,
+              "rarity": 0
+            }
+          },
+          {
+            "key": "Army Helmet",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Army Canteen",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Gramophone",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Old Radio",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "RockingHorse",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "TypeWriter",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "WheelRim",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "WireSpool",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Weezer Guitar",
+            "value": {
+              "override": false,
+              "rarity": 10
+            }
+          },
+          {
+            "key": "giant poster",
+            "value": {
+              "override": false,
+              "rarity": 15
+            }
+          }
+        ],
+        "override_daytime_enemies_max_power": false,
+        "daytime_enemies_max_power": 5,
+        "override_daytime_enemies_probability": false,
+        "daytime_enemies_probability": 5.0,
+        "daytime_enemies": [
+          {
+            "key": "Manticoil",
+            "value": {
+              "override": false,
+              "rarity": 74
+            }
+          },
+          {
+            "key": "Docile Locust Bees",
+            "value": {
+              "override": false,
+              "rarity": 36
+            }
+          }
+        ],
+        "override_outside_enemies_max_power": false,
+        "outside_enemies_max_power": 8,
+        "outside_enemies": [
+          {
+            "key": "Hoarding bug",
+            "value": {
+              "override": false,
+              "rarity": 86
+            }
+          },
+          {
+            "key": "ForestGiant",
+            "value": {
+              "override": false,
+              "rarity": 6
+            }
+          },
+          {
+            "key": "Baboon hawk",
+            "value": {
+              "override": false,
+              "rarity": 19
+            }
+          }
+        ],
+        "override_inside_enemies_max_power": false,
+        "inside_enemies_max_power": 8,
+        "override_inside_enemies_probability": false,
+        "inside_enemies_probability": 4.0,
+        "inside_enemies": [
+          {
+            "key": "Centipede",
+            "value": {
+              "override": false,
+              "rarity": 11
+            }
+          },
+          {
+            "key": "Bunker Spider",
+            "value": {
+              "override": false,
+              "rarity": 12
+            }
+          },
+          {
+            "key": "Hoarding bug",
+            "value": {
+              "override": false,
+              "rarity": 36
+            }
+          },
+          {
+            "key": "Flowerman",
+            "value": {
+              "override": false,
+              "rarity": 7
+            }
+          },
+          {
+            "key": "Crawler",
+            "value": {
+              "override": false,
+              "rarity": 27
+            }
+          },
+          {
+            "key": "Blob",
+            "value": {
+              "override": false,
+              "rarity": 31
+            }
+          },
+          {
+            "key": "Puffer",
+            "value": {
+              "override": false,
+              "rarity": 37
+            }
+          },
+          {
+            "key": "Jester",
+            "value": {
+              "override": false,
+              "rarity": 4
+            }
+          },
+          {
+            "key": "Herobrine",
+            "value": {
+              "override": false,
+              "rarity": 30
+            }
+          },
+          {
+            "key": "ImmortalSnail",
+            "value": {
+              "override": false,
+              "rarity": 100
+            }
+          },
+          {
+            "key": "HarpGhost",
+            "value": {
+              "override": false,
+              "rarity": 75
+            }
+          },
+          {
+            "key": "Shrimp",
+            "value": {
+              "override": false,
+              "rarity": 15
+            }
+          },
+          {
+            "key": "RollingGiant",
+            "value": {
+              "override": false,
+              "rarity": 30
+            }
+          }
+        ]
+      }
+    },
+    {
+      "key": "46 Infernis",
+      "value": {
+        "override_price": false,
+        "price": 6,
+        "override_dungeon_size": false,
+        "dungeon_size": 1.58,
+        "override_min_scrap_amount": false,
+        "min_scrap_amount": 24,
+        "override_max_scrap_amount": false,
+        "max_scrap_amount": 26,
+        "override_scrap_amount_modifier": false,
+        "scrap_amount_modifier": 1.0,
+        "override_scrap_value_modifier": false,
+        "scrap_value_modifier": 1.0,
+        "loot_table": [
+          {
+            "key": "Rock",
+            "value": {
+              "override": false,
+              "rarity": 64
+            }
+          },
+          {
+            "key": "Oil Shale",
+            "value": {
+              "override": false,
+              "rarity": 44
+            }
+          },
+          {
+            "key": "Lava Crystal",
+            "value": {
+              "override": false,
+              "rarity": 30
+            }
+          },
+          {
+            "key": "Amethyst Cluster",
+            "value": {
+              "override": false,
+              "rarity": 19
+            }
+          },
+          {
+            "key": "Stop sign",
+            "value": {
+              "override": false,
+              "rarity": 9
+            }
+          },
+          {
+            "key": "Pickaxe",
+            "value": {
+              "override": false,
+              "rarity": 18
+            }
+          },
+          {
+            "key": "Oil Lantern",
+            "value": {
+              "override": false,
+              "rarity": 15
+            }
+          },
+          {
+            "key": "Airhorn",
+            "value": {
+              "override": false,
+              "rarity": 4
+            }
+          },
+          {
+            "key": "Clown horn",
+            "value": {
+              "override": false,
+              "rarity": 4
+            }
+          },
+          {
+            "key": "Ring",
+            "value": {
+              "override": false,
+              "rarity": 4
+            }
+          },
+          {
+            "key": "Flintlock",
+            "value": {
+              "override": false,
+              "rarity": 12
+            }
+          },
+          {
+            "key": "Raw Gold",
+            "value": {
+              "override": false,
+              "rarity": 3
+            }
+          },
+          {
+            "key": "Concrete Block",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Bit coin",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Gold bar",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Skull",
+            "value": {
+              "override": false,
+              "rarity": 16
+            }
+          },
+          {
+            "key": "Burnt Note 2",
+            "value": {
+              "override": false,
+              "rarity": 7
+            }
+          },
+          {
+            "key": "Burnt Note 3",
+            "value": {
+              "override": false,
+              "rarity": 7
+            }
+          },
+          {
+            "key": "Burnt Note 1",
+            "value": {
+              "override": false,
+              "rarity": 7
+            }
+          },
+          {
+            "key": "Burnt Note 4",
+            "value": {
+              "override": false,
+              "rarity": 7
+            }
+          },
+          {
+            "key": "Redstone Torch",
+            "value": {
+              "override": false,
+              "rarity": 3
+            }
+          },
+          {
+            "key": "Screwdriver",
+            "value": {
+              "override": false,
+              "rarity": 40
+            }
+          },
+          {
+            "key": "Gemstone",
+            "value": {
+              "override": false,
+              "rarity": 4
+            }
+          },
+          {
+            "key": "Harp",
+            "value": {
+              "override": false,
+              "rarity": 0
+            }
+          },
+          {
+            "key": "Army Helmet",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Army Canteen",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Gramophone",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Old Radio",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "RockingHorse",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "TypeWriter",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "WheelRim",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "WireSpool",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Weezer Guitar",
+            "value": {
+              "override": false,
+              "rarity": 10
+            }
+          },
+          {
+            "key": "giant poster",
+            "value": {
+              "override": false,
+              "rarity": 15
+            }
+          }
+        ],
+        "override_daytime_enemies_max_power": false,
+        "daytime_enemies_max_power": 12,
+        "override_daytime_enemies_probability": false,
+        "daytime_enemies_probability": 5.1,
+        "daytime_enemies": [
+          {
+            "key": "Bunker Spider",
+            "value": {
+              "override": false,
+              "rarity": 29
+            }
+          },
+          {
+            "key": "Red Locust Bees",
+            "value": {
+              "override": false,
+              "rarity": 17
+            }
+          },
+          {
+            "key": "Manticoil",
+            "value": {
+              "override": false,
+              "rarity": 52
+            }
+          },
+          {
+            "key": "Docile Locust Bees",
+            "value": {
+              "override": false,
+              "rarity": 74
+            }
+          }
+        ],
+        "override_outside_enemies_max_power": false,
+        "outside_enemies_max_power": 7,
+        "outside_enemies": [
+          {
+            "key": "MouthDog",
+            "value": {
+              "override": false,
+              "rarity": 37
+            }
+          },
+          {
+            "key": "ForestGiant",
+            "value": {
+              "override": false,
+              "rarity": 57
+            }
+          },
+          {
+            "key": "Bunker Spider",
+            "value": {
+              "override": false,
+              "rarity": 44
+            }
+          }
+        ],
+        "override_inside_enemies_max_power": false,
+        "inside_enemies_max_power": 10,
+        "override_inside_enemies_probability": false,
+        "inside_enemies_probability": 10.4,
+        "inside_enemies": [
+          {
+            "key": "Bunker Spider",
+            "value": {
+              "override": false,
+              "rarity": 61
+            }
+          },
+          {
+            "key": "Hoarding bug",
+            "value": {
+              "override": false,
+              "rarity": 40
+            }
+          },
+          {
+            "key": "Centipede",
+            "value": {
+              "override": false,
+              "rarity": 26
+            }
+          },
+          {
+            "key": "Flowerman",
+            "value": {
+              "override": false,
+              "rarity": 15
+            }
+          },
+          {
+            "key": "Crawler",
+            "value": {
+              "override": false,
+              "rarity": 12
+            }
+          },
+          {
+            "key": "Blob",
+            "value": {
+              "override": false,
+              "rarity": 7
+            }
+          },
+          {
+            "key": "Girl",
+            "value": {
+              "override": false,
+              "rarity": 2
+            }
+          },
+          {
+            "key": "Red Locust Bees",
+            "value": {
+              "override": false,
+              "rarity": 20
+            }
+          },
+          {
+            "key": "Herobrine",
+            "value": {
+              "override": false,
+              "rarity": 30
+            }
+          },
+          {
+            "key": "ImmortalSnail",
+            "value": {
+              "override": false,
+              "rarity": 100
+            }
+          },
+          {
+            "key": "HarpGhost",
+            "value": {
+              "override": false,
+              "rarity": 75
+            }
+          },
+          {
+            "key": "Shrimp",
+            "value": {
+              "override": false,
+              "rarity": 15
+            }
+          },
+          {
+            "key": "RollingGiant",
+            "value": {
+              "override": false,
+              "rarity": 30
+            }
+          }
+        ]
+      }
+    },
+    {
+      "key": "56 Vow",
+      "value": {
+        "override_price": false,
+        "price": 0,
+        "override_dungeon_size": false,
+        "dungeon_size": 1.15,
+        "override_min_scrap_amount": false,
+        "min_scrap_amount": 10,
+        "override_max_scrap_amount": false,
+        "max_scrap_amount": 13,
+        "override_scrap_amount_modifier": false,
+        "scrap_amount_modifier": 1.0,
+        "override_scrap_value_modifier": false,
+        "scrap_value_modifier": 1.0,
+        "loot_table": [
+          {
+            "key": "Large axle",
+            "value": {
+              "override": false,
+              "rarity": 30
+            }
+          },
+          {
+            "key": "V-type engine",
+            "value": {
+              "override": false,
+              "rarity": 40
+            }
+          },
+          {
+            "key": "Plastic fish",
+            "value": {
+              "override": false,
+              "rarity": 32
+            }
+          },
+          {
+            "key": "Metal sheet",
+            "value": {
+              "override": false,
+              "rarity": 16
+            }
+          },
+          {
+            "key": "Big bolt",
+            "value": {
+              "override": false,
+              "rarity": 31
+            }
+          },
+          {
+            "key": "Toy cube",
+            "value": {
+              "override": false,
+              "rarity": 17
+            }
+          },
+          {
+            "key": "Laser pointer",
+            "value": {
+              "override": false,
+              "rarity": 8
+            }
+          },
+          {
+            "key": "Bottles",
+            "value": {
+              "override": false,
+              "rarity": 82
+            }
+          },
+          {
+            "key": "Remote",
+            "value": {
+              "override": false,
+              "rarity": 19
+            }
+          },
+          {
+            "key": "Cookie mold pan",
+            "value": {
+              "override": false,
+              "rarity": 49
+            }
+          },
+          {
+            "key": "Toy robot",
+            "value": {
+              "override": false,
+              "rarity": 6
+            }
+          },
+          {
+            "key": "Magnifying glass",
+            "value": {
+              "override": false,
+              "rarity": 21
+            }
+          },
+          {
+            "key": "Stop sign",
+            "value": {
+              "override": false,
+              "rarity": 40
+            }
+          },
+          {
+            "key": "Tea kettle",
+            "value": {
+              "override": false,
+              "rarity": 32
+            }
+          },
+          {
+            "key": "Jar of pickles",
+            "value": {
+              "override": false,
+              "rarity": 20
+            }
+          },
+          {
+            "key": "Mug",
+            "value": {
+              "override": false,
+              "rarity": 12
+            }
+          },
+          {
+            "key": "Red soda",
+            "value": {
+              "override": false,
+              "rarity": 12
+            }
+          },
+          {
+            "key": "Steering wheel",
+            "value": {
+              "override": false,
+              "rarity": 12
+            }
+          },
+          {
+            "key": "Old phone",
+            "value": {
+              "override": false,
+              "rarity": 7
+            }
+          },
+          {
+            "key": "Rubber Ducky",
+            "value": {
+              "override": false,
+              "rarity": 21
+            }
+          },
+          {
+            "key": "Egg beater",
+            "value": {
+              "override": false,
+              "rarity": 50
+            }
+          },
+          {
+            "key": "Brush",
+            "value": {
+              "override": false,
+              "rarity": 46
+            }
+          },
+          {
+            "key": "Bell",
+            "value": {
+              "override": false,
+              "rarity": 40
+            }
+          },
+          {
+            "key": "Chemical jug",
+            "value": {
+              "override": false,
+              "rarity": 46
+            }
+          },
+          {
+            "key": "Airhorn",
+            "value": {
+              "override": false,
+              "rarity": 10
+            }
+          },
+          {
+            "key": "Clown horn",
+            "value": {
+              "override": false,
+              "rarity": 10
+            }
+          },
+          {
+            "key": "Cash register",
+            "value": {
+              "override": false,
+              "rarity": 5
+            }
+          },
+          {
+            "key": "Yield sign",
+            "value": {
+              "override": false,
+              "rarity": 16
+            }
+          },
+          {
+            "key": "Homemade flashbang",
+            "value": {
+              "override": false,
+              "rarity": 14
+            }
+          },
+          {
+            "key": "Gift",
+            "value": {
+              "override": false,
+              "rarity": 21
+            }
+          },
+          {
+            "key": "Flask",
+            "value": {
+              "override": false,
+              "rarity": 49
+            }
+          },
+          {
+            "key": "Whoopie cushion",
+            "value": {
+              "override": false,
+              "rarity": 49
+            }
+          },
+          {
+            "key": "Bunny ears",
+            "value": {
+              "override": false,
+              "rarity": 2
+            }
+          },
+          {
+            "key": "Toy car",
+            "value": {
+              "override": false,
+              "rarity": 10
+            }
+          },
+          {
+            "key": "Toy tank",
+            "value": {
+              "override": false,
+              "rarity": 10
+            }
+          },
+          {
+            "key": "Warplane toy",
+            "value": {
+              "override": false,
+              "rarity": 10
+            }
+          },
+          {
+            "key": "Skillet",
+            "value": {
+              "override": false,
+              "rarity": 10
+            }
+          },
+          {
+            "key": "Controller",
+            "value": {
+              "override": false,
+              "rarity": 2
+            }
+          },
+          {
+            "key": "Redstone Torch",
+            "value": {
+              "override": false,
+              "rarity": 5
+            }
+          },
+          {
+            "key": "Screwdriver",
+            "value": {
+              "override": false,
+              "rarity": 40
+            }
+          },
+          {
+            "key": "Gemstone",
+            "value": {
+              "override": false,
+              "rarity": 4
+            }
+          },
+          {
+            "key": "Harp",
+            "value": {
+              "override": false,
+              "rarity": 0
+            }
+          },
+          {
+            "key": "Army Helmet",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Army Canteen",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Gramophone",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Old Radio",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "RockingHorse",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "TypeWriter",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "WheelRim",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "WireSpool",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Weezer Guitar",
+            "value": {
+              "override": false,
+              "rarity": 10
+            }
+          },
+          {
+            "key": "giant poster",
+            "value": {
+              "override": false,
+              "rarity": 15
+            }
+          }
+        ],
+        "override_daytime_enemies_max_power": false,
+        "daytime_enemies_max_power": 17,
+        "override_daytime_enemies_probability": false,
+        "daytime_enemies_probability": 7.0,
+        "daytime_enemies": [
+          {
+            "key": "Manticoil",
+            "value": {
+              "override": false,
+              "rarity": 100
+            }
+          },
+          {
+            "key": "Red Locust Bees",
+            "value": {
+              "override": false,
+              "rarity": 61
+            }
+          },
+          {
+            "key": "Docile Locust Bees",
+            "value": {
+              "override": false,
+              "rarity": 67
+            }
+          }
+        ],
+        "override_outside_enemies_max_power": false,
+        "outside_enemies_max_power": 6,
+        "outside_enemies": [
+          {
+            "key": "ForestGiant",
+            "value": {
+              "override": false,
+              "rarity": 100
+            }
+          },
+          {
+            "key": "MouthDog",
+            "value": {
+              "override": false,
+              "rarity": 4
+            }
+          },
+          {
+            "key": "Earth Leviathan",
+            "value": {
+              "override": false,
+              "rarity": 18
+            }
+          },
+          {
+            "key": "Baboon hawk",
+            "value": {
+              "override": false,
+              "rarity": 31
+            }
+          }
+        ],
+        "override_inside_enemies_max_power": false,
+        "inside_enemies_max_power": 7,
+        "override_inside_enemies_probability": false,
+        "inside_enemies_probability": 3.0,
+        "inside_enemies": [
+          {
+            "key": "Centipede",
+            "value": {
+              "override": false,
+              "rarity": 61
+            }
+          },
+          {
+            "key": "Bunker Spider",
+            "value": {
+              "override": false,
+              "rarity": 40
+            }
+          },
+          {
+            "key": "Hoarding bug",
+            "value": {
+              "override": false,
+              "rarity": 63
+            }
+          },
+          {
+            "key": "Flowerman",
+            "value": {
+              "override": false,
+              "rarity": 80
+            }
+          },
+          {
+            "key": "Crawler",
+            "value": {
+              "override": false,
+              "rarity": 9
+            }
+          },
+          {
+            "key": "Blob",
+            "value": {
+              "override": false,
+              "rarity": 28
+            }
+          },
+          {
+            "key": "Spring",
+            "value": {
+              "override": false,
+              "rarity": 6
+            }
+          },
+          {
+            "key": "Puffer",
+            "value": {
+              "override": false,
+              "rarity": 19
+            }
+          },
+          {
+            "key": "Walker",
+            "value": {
+              "override": false,
+              "rarity": 10
+            }
+          },
+          {
+            "key": "Herobrine",
+            "value": {
+              "override": false,
+              "rarity": 12
+            }
+          },
+          {
+            "key": "ImmortalSnail",
+            "value": {
+              "override": false,
+              "rarity": 100
+            }
+          },
+          {
+            "key": "HarpGhost",
+            "value": {
+              "override": false,
+              "rarity": 75
+            }
+          },
+          {
+            "key": "Shrimp",
+            "value": {
+              "override": false,
+              "rarity": 15
+            }
+          },
+          {
+            "key": "RollingGiant",
+            "value": {
+              "override": false,
+              "rarity": 30
+            }
+          }
+        ]
+      }
+    },
+    {
+      "key": "57 Asteroid-13",
+      "value": {
+        "override_price": false,
+        "price": 3,
+        "override_dungeon_size": false,
+        "dungeon_size": 1.3,
+        "override_min_scrap_amount": false,
+        "min_scrap_amount": 25,
+        "override_max_scrap_amount": false,
+        "max_scrap_amount": 28,
+        "override_scrap_amount_modifier": false,
+        "scrap_amount_modifier": 1.0,
+        "override_scrap_value_modifier": false,
+        "scrap_value_modifier": 1.0,
+        "loot_table": [
+          {
+            "key": "Blue Folder",
+            "value": {
+              "override": false,
+              "rarity": 40
+            }
+          },
+          {
+            "key": "Red Folder",
+            "value": {
+              "override": false,
+              "rarity": 40
+            }
+          },
+          {
+            "key": "Stapler",
+            "value": {
+              "override": false,
+              "rarity": 40
+            }
+          },
+          {
+            "key": "Fire Extinguisher",
+            "value": {
+              "override": false,
+              "rarity": 34
+            }
+          },
+          {
+            "key": "Documents",
+            "value": {
+              "override": false,
+              "rarity": 26
+            }
+          },
+          {
+            "key": "Stun Baton",
+            "value": {
+              "override": false,
+              "rarity": 29
+            }
+          },
+          {
+            "key": "Banana",
+            "value": {
+              "override": false,
+              "rarity": 8
+            }
+          },
+          {
+            "key": "Coil",
+            "value": {
+              "override": false,
+              "rarity": 27
+            }
+          },
+          {
+            "key": "Bronze Trophy",
+            "value": {
+              "override": false,
+              "rarity": 13
+            }
+          },
+          {
+            "key": "Typewriter",
+            "value": {
+              "override": false,
+              "rarity": 19
+            }
+          },
+          {
+            "key": "Experiment Log Hyper Acid",
+            "value": {
+              "override": false,
+              "rarity": 7
+            }
+          },
+          {
+            "key": "Experiment Log Comedy Mask",
+            "value": {
+              "override": false,
+              "rarity": 7
+            }
+          },
+          {
+            "key": "Experiment Log Cursed Coin",
+            "value": {
+              "override": false,
+              "rarity": 7
+            }
+          },
+          {
+            "key": "Experiment Log BIO HXNV7",
+            "value": {
+              "override": false,
+              "rarity": 8
+            }
+          },
+          {
+            "key": "Experiment Log Golden Dagger",
+            "value": {
+              "override": false,
+              "rarity": 10
+            }
+          },
+          {
+            "key": "Recovered Secret Log",
+            "value": {
+              "override": false,
+              "rarity": 6
+            }
+          },
+          {
+            "key": "Old Computer",
+            "value": {
+              "override": false,
+              "rarity": 7
+            }
+          },
+          {
+            "key": "BIO-HXNV7",
+            "value": {
+              "override": false,
+              "rarity": 5
+            }
+          },
+          {
+            "key": "Mug",
+            "value": {
+              "override": false,
+              "rarity": 7
+            }
+          },
+          {
+            "key": "Remote",
+            "value": {
+              "override": false,
+              "rarity": 6
+            }
+          },
+          {
+            "key": "Old phone",
+            "value": {
+              "override": false,
+              "rarity": 4
+            }
+          },
+          {
+            "key": "Magnifying glass",
+            "value": {
+              "override": false,
+              "rarity": 4
+            }
+          },
+          {
+            "key": "Fancy lamp",
+            "value": {
+              "override": false,
+              "rarity": 3
+            }
+          },
+          {
+            "key": "Cash register",
+            "value": {
+              "override": false,
+              "rarity": 2
+            }
+          },
+          {
+            "key": "Redstone Torch",
+            "value": {
+              "override": false,
+              "rarity": 3
+            }
+          },
+          {
+            "key": "Screwdriver",
+            "value": {
+              "override": false,
+              "rarity": 40
+            }
+          },
+          {
+            "key": "Gemstone",
+            "value": {
+              "override": false,
+              "rarity": 4
+            }
+          },
+          {
+            "key": "Harp",
+            "value": {
+              "override": false,
+              "rarity": 0
+            }
+          },
+          {
+            "key": "Army Helmet",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Army Canteen",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Gramophone",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Old Radio",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "RockingHorse",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "TypeWriter",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "WheelRim",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "WireSpool",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Weezer Guitar",
+            "value": {
+              "override": false,
+              "rarity": 10
+            }
+          },
+          {
+            "key": "giant poster",
+            "value": {
+              "override": false,
+              "rarity": 15
+            }
+          }
+        ],
+        "override_daytime_enemies_max_power": false,
+        "daytime_enemies_max_power": 1,
+        "override_daytime_enemies_probability": false,
+        "daytime_enemies_probability": 5.0,
+        "daytime_enemies": [
+          {
+            "key": "Spring",
+            "value": {
+              "override": false,
+              "rarity": 100
+            }
+          }
+        ],
+        "override_outside_enemies_max_power": false,
+        "outside_enemies_max_power": 25,
+        "outside_enemies": [
+          {
+            "key": "Spring",
+            "value": {
+              "override": false,
+              "rarity": 100
+            }
+          },
+          {
+            "key": "Masked",
+            "value": {
+              "override": false,
+              "rarity": 51
+            }
+          }
+        ],
+        "override_inside_enemies_max_power": false,
+        "inside_enemies_max_power": 8,
+        "override_inside_enemies_probability": false,
+        "inside_enemies_probability": 4.4,
+        "inside_enemies": [
+          {
+            "key": "Spring",
+            "value": {
+              "override": false,
+              "rarity": 96
+            }
+          },
+          {
+            "key": "Centipede",
+            "value": {
+              "override": false,
+              "rarity": 2
+            }
+          },
+          {
+            "key": "Bunker Spider",
+            "value": {
+              "override": false,
+              "rarity": 2
+            }
+          },
+          {
+            "key": "Hoarding bug",
+            "value": {
+              "override": false,
+              "rarity": 2
+            }
+          },
+          {
+            "key": "Girl",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Herobrine",
+            "value": {
+              "override": false,
+              "rarity": 30
+            }
+          },
+          {
+            "key": "ImmortalSnail",
+            "value": {
+              "override": false,
+              "rarity": 100
+            }
+          },
+          {
+            "key": "HarpGhost",
+            "value": {
+              "override": false,
+              "rarity": 75
+            }
+          },
+          {
+            "key": "Shrimp",
+            "value": {
+              "override": false,
+              "rarity": 15
+            }
+          },
+          {
+            "key": "RollingGiant",
+            "value": {
+              "override": false,
+              "rarity": 30
+            }
+          }
+        ]
+      }
+    },
+    {
+      "key": "61 March",
+      "value": {
+        "override_price": false,
+        "price": 0,
+        "override_dungeon_size": false,
+        "dungeon_size": 2.0,
+        "override_min_scrap_amount": false,
+        "min_scrap_amount": 13,
+        "override_max_scrap_amount": false,
+        "max_scrap_amount": 17,
+        "override_scrap_amount_modifier": false,
+        "scrap_amount_modifier": 1.0,
+        "override_scrap_value_modifier": false,
+        "scrap_value_modifier": 1.0,
+        "loot_table": [
+          {
+            "key": "Large axle",
+            "value": {
+              "override": false,
+              "rarity": 94
+            }
+          },
+          {
+            "key": "V-type engine",
+            "value": {
+              "override": false,
+              "rarity": 80
+            }
+          },
+          {
+            "key": "Plastic fish",
+            "value": {
+              "override": false,
+              "rarity": 28
+            }
+          },
+          {
+            "key": "Metal sheet",
+            "value": {
+              "override": false,
+              "rarity": 83
+            }
+          },
+          {
+            "key": "Big bolt",
+            "value": {
+              "override": false,
+              "rarity": 89
+            }
+          },
+          {
+            "key": "Toy cube",
+            "value": {
+              "override": false,
+              "rarity": 18
+            }
+          },
+          {
+            "key": "Laser pointer",
+            "value": {
+              "override": false,
+              "rarity": 3
+            }
+          },
+          {
+            "key": "Bottles",
+            "value": {
+              "override": false,
+              "rarity": 67
+            }
+          },
+          {
+            "key": "Remote",
+            "value": {
+              "override": false,
+              "rarity": 16
+            }
+          },
+          {
+            "key": "Cookie mold pan",
+            "value": {
+              "override": false,
+              "rarity": 13
+            }
+          },
+          {
+            "key": "Toy robot",
+            "value": {
+              "override": false,
+              "rarity": 2
+            }
+          },
+          {
+            "key": "Magnifying glass",
+            "value": {
+              "override": false,
+              "rarity": 4
+            }
+          },
+          {
+            "key": "Stop sign",
+            "value": {
+              "override": false,
+              "rarity": 29
+            }
+          },
+          {
+            "key": "Tea kettle",
+            "value": {
+              "override": false,
+              "rarity": 24
+            }
+          },
+          {
+            "key": "Gold bar",
+            "value": {
+              "override": false,
+              "rarity": 4
+            }
+          },
+          {
+            "key": "Cash register",
+            "value": {
+              "override": false,
+              "rarity": 3
+            }
+          },
+          {
+            "key": "Clown horn",
+            "value": {
+              "override": false,
+              "rarity": 43
+            }
+          },
+          {
+            "key": "Airhorn",
+            "value": {
+              "override": false,
+              "rarity": 34
+            }
+          },
+          {
+            "key": "Candy",
+            "value": {
+              "override": false,
+              "rarity": 3
+            }
+          },
+          {
+            "key": "Red soda",
+            "value": {
+              "override": false,
+              "rarity": 2
+            }
+          },
+          {
+            "key": "Yield sign",
+            "value": {
+              "override": false,
+              "rarity": 8
+            }
+          },
+          {
+            "key": "Gift",
+            "value": {
+              "override": false,
+              "rarity": 24
+            }
+          },
+          {
+            "key": "Flask",
+            "value": {
+              "override": false,
+              "rarity": 42
+            }
+          },
+          {
+            "key": "Bunny ears",
+            "value": {
+              "override": false,
+              "rarity": 2
+            }
+          },
+          {
+            "key": "Toy car",
+            "value": {
+              "override": false,
+              "rarity": 10
+            }
+          },
+          {
+            "key": "Toy tank",
+            "value": {
+              "override": false,
+              "rarity": 10
+            }
+          },
+          {
+            "key": "Warplane toy",
+            "value": {
+              "override": false,
+              "rarity": 10
+            }
+          },
+          {
+            "key": "Skillet",
+            "value": {
+              "override": false,
+              "rarity": 10
+            }
+          },
+          {
+            "key": "Controller",
+            "value": {
+              "override": false,
+              "rarity": 4
+            }
+          },
+          {
+            "key": "Redstone Torch",
+            "value": {
+              "override": false,
+              "rarity": 6
+            }
+          },
+          {
+            "key": "Screwdriver",
+            "value": {
+              "override": false,
+              "rarity": 40
+            }
+          },
+          {
+            "key": "Gemstone",
+            "value": {
+              "override": false,
+              "rarity": 4
+            }
+          },
+          {
+            "key": "Harp",
+            "value": {
+              "override": false,
+              "rarity": 0
+            }
+          },
+          {
+            "key": "Army Helmet",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Army Canteen",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Gramophone",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Old Radio",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "RockingHorse",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "TypeWriter",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "WheelRim",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "WireSpool",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Weezer Guitar",
+            "value": {
+              "override": false,
+              "rarity": 10
+            }
+          },
+          {
+            "key": "giant poster",
+            "value": {
+              "override": false,
+              "rarity": 15
+            }
+          }
+        ],
+        "override_daytime_enemies_max_power": false,
+        "daytime_enemies_max_power": 20,
+        "override_daytime_enemies_probability": false,
+        "daytime_enemies_probability": 7.0,
+        "daytime_enemies": [
+          {
+            "key": "Manticoil",
+            "value": {
+              "override": false,
+              "rarity": 83
+            }
+          },
+          {
+            "key": "Docile Locust Bees",
+            "value": {
+              "override": false,
+              "rarity": 49
+            }
+          },
+          {
+            "key": "Red Locust Bees",
+            "value": {
+              "override": false,
+              "rarity": 72
+            }
+          }
+        ],
+        "override_outside_enemies_max_power": false,
+        "outside_enemies_max_power": 12,
+        "outside_enemies": [
+          {
+            "key": "ForestGiant",
+            "value": {
+              "override": false,
+              "rarity": 64
+            }
+          },
+          {
+            "key": "MouthDog",
+            "value": {
+              "override": false,
+              "rarity": 38
+            }
+          },
+          {
+            "key": "Earth Leviathan",
+            "value": {
+              "override": false,
+              "rarity": 16
+            }
+          },
+          {
+            "key": "Baboon hawk",
+            "value": {
+              "override": false,
+              "rarity": 85
+            }
+          }
+        ],
+        "override_inside_enemies_max_power": false,
+        "inside_enemies_max_power": 14,
+        "override_inside_enemies_probability": false,
+        "inside_enemies_probability": 4.0,
+        "inside_enemies": [
+          {
+            "key": "Centipede",
+            "value": {
+              "override": false,
+              "rarity": 38
+            }
+          },
+          {
+            "key": "Bunker Spider",
+            "value": {
+              "override": false,
+              "rarity": 64
+            }
+          },
+          {
+            "key": "Hoarding bug",
+            "value": {
+              "override": false,
+              "rarity": 36
+            }
+          },
+          {
+            "key": "Flowerman",
+            "value": {
+              "override": false,
+              "rarity": 56
+            }
+          },
+          {
+            "key": "Crawler",
+            "value": {
+              "override": false,
+              "rarity": 74
+            }
+          },
+          {
+            "key": "Blob",
+            "value": {
+              "override": false,
+              "rarity": 15
+            }
+          },
+          {
+            "key": "Spring",
+            "value": {
+              "override": false,
+              "rarity": 10
+            }
+          },
+          {
+            "key": "Puffer",
+            "value": {
+              "override": false,
+              "rarity": 9
+            }
+          },
+          {
+            "key": "Jester",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Nutcracker",
+            "value": {
+              "override": false,
+              "rarity": 3
+            }
+          },
+          {
+            "key": "Walker",
+            "value": {
+              "override": false,
+              "rarity": 10
+            }
+          },
+          {
+            "key": "Herobrine",
+            "value": {
+              "override": false,
+              "rarity": 30
+            }
+          },
+          {
+            "key": "ImmortalSnail",
+            "value": {
+              "override": false,
+              "rarity": 100
+            }
+          },
+          {
+            "key": "HarpGhost",
+            "value": {
+              "override": false,
+              "rarity": 75
+            }
+          },
+          {
+            "key": "Shrimp",
+            "value": {
+              "override": false,
+              "rarity": 15
+            }
+          },
+          {
+            "key": "RollingGiant",
+            "value": {
+              "override": false,
+              "rarity": 30
+            }
+          }
+        ]
+      }
+    },
+    {
+      "key": "7 Dine",
+      "value": {
+        "override_price": false,
+        "price": 600,
+        "override_dungeon_size": false,
+        "dungeon_size": 1.3,
+        "override_min_scrap_amount": false,
+        "min_scrap_amount": 20,
+        "override_max_scrap_amount": false,
+        "max_scrap_amount": 28,
+        "override_scrap_amount_modifier": false,
+        "scrap_amount_modifier": 1.0,
+        "override_scrap_value_modifier": false,
+        "scrap_value_modifier": 1.0,
+        "loot_table": [
+          {
+            "key": "Large axle",
+            "value": {
+              "override": false,
+              "rarity": 2
+            }
+          },
+          {
+            "key": "V-type engine",
+            "value": {
+              "override": false,
+              "rarity": 2
+            }
+          },
+          {
+            "key": "Plastic fish",
+            "value": {
+              "override": false,
+              "rarity": 16
+            }
+          },
+          {
+            "key": "Big bolt",
+            "value": {
+              "override": false,
+              "rarity": 4
+            }
+          },
+          {
+            "key": "Fancy lamp",
+            "value": {
+              "override": false,
+              "rarity": 49
+            }
+          },
+          {
+            "key": "Toy cube",
+            "value": {
+              "override": false,
+              "rarity": 33
+            }
+          },
+          {
+            "key": "Jar of pickles",
+            "value": {
+              "override": false,
+              "rarity": 4
+            }
+          },
+          {
+            "key": "Laser pointer",
+            "value": {
+              "override": false,
+              "rarity": 5
+            }
+          },
+          {
+            "key": "Golden cup",
+            "value": {
+              "override": false,
+              "rarity": 24
+            }
+          },
+          {
+            "key": "Painting",
+            "value": {
+              "override": false,
+              "rarity": 50
+            }
+          },
+          {
+            "key": "Bell",
+            "value": {
+              "override": false,
+              "rarity": 48
+            }
+          },
+          {
+            "key": "Ring",
+            "value": {
+              "override": false,
+              "rarity": 19
+            }
+          },
+          {
+            "key": "Toy robot",
+            "value": {
+              "override": false,
+              "rarity": 46
+            }
+          },
+          {
+            "key": "Toothpaste",
+            "value": {
+              "override": false,
+              "rarity": 24
+            }
+          },
+          {
+            "key": "Brush",
+            "value": {
+              "override": false,
+              "rarity": 25
+            }
+          },
+          {
+            "key": "Pill bottle",
+            "value": {
+              "override": false,
+              "rarity": 4
+            }
+          },
+          {
+            "key": "Perfume bottle",
+            "value": {
+              "override": false,
+              "rarity": 28
+            }
+          },
+          {
+            "key": "Mug",
+            "value": {
+              "override": false,
+              "rarity": 44
+            }
+          },
+          {
+            "key": "Bottles",
+            "value": {
+              "override": false,
+              "rarity": 46
+            }
+          },
+          {
+            "key": "Magnifying glass",
+            "value": {
+              "override": false,
+              "rarity": 35
+            }
+          },
+          {
+            "key": "Hairdryer",
+            "value": {
+              "override": false,
+              "rarity": 43
+            }
+          },
+          {
+            "key": "Old phone",
+            "value": {
+              "override": false,
+              "rarity": 17
+            }
+          },
+          {
+            "key": "Red soda",
+            "value": {
+              "override": false,
+              "rarity": 26
+            }
+          },
+          {
+            "key": "Teeth",
+            "value": {
+              "override": false,
+              "rarity": 31
+            }
+          },
+          {
+            "key": "Magic 7 ball",
+            "value": {
+              "override": false,
+              "rarity": 23
+            }
+          },
+          {
+            "key": "Rubber Ducky",
+            "value": {
+              "override": false,
+              "rarity": 16
+            }
+          },
+          {
+            "key": "Tea kettle",
+            "value": {
+              "override": false,
+              "rarity": 25
+            }
+          },
+          {
+            "key": "Airhorn",
+            "value": {
+              "override": false,
+              "rarity": 11
+            }
+          },
+          {
+            "key": "Clown horn",
+            "value": {
+              "override": false,
+              "rarity": 11
+            }
+          },
+          {
+            "key": "Cash register",
+            "value": {
+              "override": false,
+              "rarity": 12
+            }
+          },
+          {
+            "key": "Candy",
+            "value": {
+              "override": false,
+              "rarity": 16
+            }
+          },
+          {
+            "key": "Homemade flashbang",
+            "value": {
+              "override": false,
+              "rarity": 10
+            }
+          },
+          {
+            "key": "Gift",
+            "value": {
+              "override": false,
+              "rarity": 21
+            }
+          },
+          {
+            "key": "Tragedy",
+            "value": {
+              "override": false,
+              "rarity": 64
+            }
+          },
+          {
+            "key": "Comedy",
+            "value": {
+              "override": false,
+              "rarity": 29
+            }
+          },
+          {
+            "key": "Whoopie cushion",
+            "value": {
+              "override": false,
+              "rarity": 18
+            }
+          },
+          {
+            "key": "Light shoes",
+            "value": {
+              "override": false,
+              "rarity": 2
+            }
+          },
+          {
+            "key": "Bunny ears",
+            "value": {
+              "override": false,
+              "rarity": 2
+            }
+          },
+          {
+            "key": "Potatoes",
+            "value": {
+              "override": false,
+              "rarity": 2
+            }
+          },
+          {
+            "key": "Toy car",
+            "value": {
+              "override": false,
+              "rarity": 10
+            }
+          },
+          {
+            "key": "Toy tank",
+            "value": {
+              "override": false,
+              "rarity": 10
+            }
+          },
+          {
+            "key": "Warplane toy",
+            "value": {
+              "override": false,
+              "rarity": 10
+            }
+          },
+          {
+            "key": "Skillet",
+            "value": {
+              "override": false,
+              "rarity": 10
+            }
+          },
+          {
+            "key": "Controller",
+            "value": {
+              "override": false,
+              "rarity": 2
+            }
+          },
+          {
+            "key": "Redstone Torch",
+            "value": {
+              "override": false,
+              "rarity": 5
+            }
+          },
+          {
+            "key": "Screwdriver",
+            "value": {
+              "override": false,
+              "rarity": 40
+            }
+          },
+          {
+            "key": "Gemstone",
+            "value": {
+              "override": false,
+              "rarity": 4
+            }
+          },
+          {
+            "key": "Harp",
+            "value": {
+              "override": false,
+              "rarity": 0
+            }
+          },
+          {
+            "key": "Army Helmet",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Army Canteen",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Gramophone",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Old Radio",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "RockingHorse",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "TypeWriter",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "WheelRim",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "WireSpool",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Weezer Guitar",
+            "value": {
+              "override": false,
+              "rarity": 10
+            }
+          },
+          {
+            "key": "Fire Axe",
+            "value": {
+              "override": false,
+              "rarity": 5
+            }
+          },
+          {
+            "key": "giant poster",
+            "value": {
+              "override": false,
+              "rarity": 15
+            }
+          }
+        ],
+        "override_daytime_enemies_max_power": false,
+        "daytime_enemies_max_power": 20,
+        "override_daytime_enemies_probability": false,
+        "daytime_enemies_probability": 10.0,
+        "daytime_enemies": [],
+        "override_outside_enemies_max_power": false,
+        "outside_enemies_max_power": 6,
+        "outside_enemies": [
+          {
+            "key": "ForestGiant",
+            "value": {
+              "override": false,
+              "rarity": 28
+            }
+          },
+          {
+            "key": "MouthDog",
+            "value": {
+              "override": false,
+              "rarity": 79
+            }
+          },
+          {
+            "key": "Earth Leviathan",
+            "value": {
+              "override": false,
+              "rarity": 57
+            }
+          }
+        ],
+        "override_inside_enemies_max_power": false,
+        "inside_enemies_max_power": 15,
+        "override_inside_enemies_probability": false,
+        "inside_enemies_probability": 4.0,
+        "inside_enemies": [
+          {
+            "key": "Girl",
+            "value": {
+              "override": false,
+              "rarity": 18
+            }
+          },
+          {
+            "key": "Lasso",
+            "value": {
+              "override": false,
+              "rarity": 0
+            }
+          },
+          {
+            "key": "Bunker Spider",
+            "value": {
+              "override": false,
+              "rarity": 64
+            }
+          },
+          {
+            "key": "Centipede",
+            "value": {
+              "override": false,
+              "rarity": 52
+            }
+          },
+          {
+            "key": "Blob",
+            "value": {
+              "override": false,
+              "rarity": 39
+            }
+          },
+          {
+            "key": "Flowerman",
+            "value": {
+              "override": false,
+              "rarity": 25
+            }
+          },
+          {
+            "key": "Spring",
+            "value": {
+              "override": false,
+              "rarity": 53
+            }
+          },
+          {
+            "key": "Crawler",
+            "value": {
+              "override": false,
+              "rarity": 48
+            }
+          },
+          {
+            "key": "Hoarding bug",
+            "value": {
+              "override": false,
+              "rarity": 48
+            }
+          },
+          {
+            "key": "Jester",
+            "value": {
+              "override": false,
+              "rarity": 66
+            }
+          },
+          {
+            "key": "Puffer",
+            "value": {
+              "override": false,
+              "rarity": 16
+            }
+          },
+          {
+            "key": "Nutcracker",
+            "value": {
+              "override": false,
+              "rarity": 60
+            }
+          },
+          {
+            "key": "Walker",
+            "value": {
+              "override": false,
+              "rarity": 10
+            }
+          },
+          {
+            "key": "Herobrine",
+            "value": {
+              "override": false,
+              "rarity": 55
+            }
+          },
+          {
+            "key": "ImmortalSnail",
+            "value": {
+              "override": false,
+              "rarity": 100
+            }
+          },
+          {
+            "key": "HarpGhost",
+            "value": {
+              "override": false,
+              "rarity": 75
+            }
+          },
+          {
+            "key": "Shrimp",
+            "value": {
+              "override": false,
+              "rarity": 15
+            }
+          },
+          {
+            "key": "RollingGiant",
+            "value": {
+              "override": false,
+              "rarity": 30
+            }
+          }
+        ]
+      }
+    },
+    {
+      "key": "71 Gordion",
+      "value": {
+        "override_price": false,
+        "price": 0,
+        "override_dungeon_size": false,
+        "dungeon_size": 0.35,
+        "override_min_scrap_amount": false,
+        "min_scrap_amount": 5,
+        "override_max_scrap_amount": false,
+        "max_scrap_amount": 11,
+        "override_scrap_amount_modifier": false,
+        "scrap_amount_modifier": 1.0,
+        "override_scrap_value_modifier": false,
+        "scrap_value_modifier": 1.0,
+        "loot_table": [
+          {
+            "key": "Screwdriver",
+            "value": {
+              "override": false,
+              "rarity": 40
+            }
+          },
+          {
+            "key": "Gemstone",
+            "value": {
+              "override": false,
+              "rarity": 4
+            }
+          },
+          {
+            "key": "Harp",
+            "value": {
+              "override": false,
+              "rarity": 0
+            }
+          },
+          {
+            "key": "Army Helmet",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Army Canteen",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Gramophone",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Old Radio",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "RockingHorse",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "TypeWriter",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "WheelRim",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "WireSpool",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Weezer Guitar",
+            "value": {
+              "override": false,
+              "rarity": 10
+            }
+          }
+        ],
+        "override_daytime_enemies_max_power": false,
+        "daytime_enemies_max_power": 20,
+        "override_daytime_enemies_probability": false,
+        "daytime_enemies_probability": 10.0,
+        "daytime_enemies": [],
+        "override_outside_enemies_max_power": false,
+        "outside_enemies_max_power": 0,
+        "outside_enemies": [],
+        "override_inside_enemies_max_power": false,
+        "inside_enemies_max_power": 0,
+        "override_inside_enemies_probability": false,
+        "inside_enemies_probability": 3.0,
+        "inside_enemies": [
+          {
+            "key": "Walker",
+            "value": {
+              "override": false,
+              "rarity": 10
+            }
+          },
+          {
+            "key": "ImmortalSnail",
+            "value": {
+              "override": false,
+              "rarity": 100
+            }
+          },
+          {
+            "key": "HarpGhost",
+            "value": {
+              "override": false,
+              "rarity": 75
+            }
+          },
+          {
+            "key": "Shrimp",
+            "value": {
+              "override": false,
+              "rarity": 15
+            }
+          },
+          {
+            "key": "RollingGiant",
+            "value": {
+              "override": false,
+              "rarity": 30
+            }
+          }
+        ]
+      }
+    },
+    {
+      "key": "74 Acidir",
+      "value": {
+        "override_price": false,
+        "price": 12,
+        "override_dungeon_size": false,
+        "dungeon_size": 2.1,
+        "override_min_scrap_amount": false,
+        "min_scrap_amount": 26,
+        "override_max_scrap_amount": false,
+        "max_scrap_amount": 30,
+        "override_scrap_amount_modifier": false,
+        "scrap_amount_modifier": 1.0,
+        "override_scrap_value_modifier": false,
+        "scrap_value_modifier": 1.0,
+        "loot_table": [
+          {
+            "key": "Rum Bottle",
+            "value": {
+              "override": false,
+              "rarity": 44
+            }
+          },
+          {
+            "key": "Cursed Coin",
+            "value": {
+              "override": false,
+              "rarity": 38
+            }
+          },
+          {
+            "key": "Book",
+            "value": {
+              "override": false,
+              "rarity": 32
+            }
+          },
+          {
+            "key": "Glass Eye",
+            "value": {
+              "override": false,
+              "rarity": 28
+            }
+          },
+          {
+            "key": "Candle Holder",
+            "value": {
+              "override": false,
+              "rarity": 26
+            }
+          },
+          {
+            "key": "Raven Skull",
+            "value": {
+              "override": false,
+              "rarity": 21
+            }
+          },
+          {
+            "key": "Ribcage",
+            "value": {
+              "override": false,
+              "rarity": 11
+            }
+          },
+          {
+            "key": "Tall Candlestick",
+            "value": {
+              "override": false,
+              "rarity": 23
+            }
+          },
+          {
+            "key": "Demon Candle",
+            "value": {
+              "override": false,
+              "rarity": 22
+            }
+          },
+          {
+            "key": "Crescent of Curses",
+            "value": {
+              "override": false,
+              "rarity": 5
+            }
+          },
+          {
+            "key": "Diamond",
+            "value": {
+              "override": false,
+              "rarity": 2
+            }
+          },
+          {
+            "key": "Frog",
+            "value": {
+              "override": false,
+              "rarity": 7
+            }
+          },
+          {
+            "key": "Ring",
+            "value": {
+              "override": false,
+              "rarity": 2
+            }
+          },
+          {
+            "key": "Airhorn",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Clown horn",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Magnifying glass",
+            "value": {
+              "override": false,
+              "rarity": 2
+            }
+          },
+          {
+            "key": "Golden cup",
+            "value": {
+              "override": false,
+              "rarity": 4
+            }
+          },
+          {
+            "key": "Magic 7 ball",
+            "value": {
+              "override": false,
+              "rarity": 2
+            }
+          },
+          {
+            "key": "Comedy",
+            "value": {
+              "override": false,
+              "rarity": 3
+            }
+          },
+          {
+            "key": "Tragedy",
+            "value": {
+              "override": false,
+              "rarity": 3
+            }
+          },
+          {
+            "key": "Painting",
+            "value": {
+              "override": false,
+              "rarity": 3
+            }
+          },
+          {
+            "key": "Lost Note 1",
+            "value": {
+              "override": false,
+              "rarity": 9
+            }
+          },
+          {
+            "key": "Lost Note 2",
+            "value": {
+              "override": false,
+              "rarity": 9
+            }
+          },
+          {
+            "key": "Lost Note 3",
+            "value": {
+              "override": false,
+              "rarity": 9
+            }
+          },
+          {
+            "key": "Lost Note 4",
+            "value": {
+              "override": false,
+              "rarity": 9
+            }
+          },
+          {
+            "key": "Redstone Torch",
+            "value": {
+              "override": false,
+              "rarity": 3
+            }
+          },
+          {
+            "key": "Screwdriver",
+            "value": {
+              "override": false,
+              "rarity": 40
+            }
+          },
+          {
+            "key": "Gemstone",
+            "value": {
+              "override": false,
+              "rarity": 4
+            }
+          },
+          {
+            "key": "Harp",
+            "value": {
+              "override": false,
+              "rarity": 0
+            }
+          },
+          {
+            "key": "Army Helmet",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Army Canteen",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Gramophone",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Old Radio",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "RockingHorse",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "TypeWriter",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "WheelRim",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "WireSpool",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Weezer Guitar",
+            "value": {
+              "override": false,
+              "rarity": 10
+            }
+          },
+          {
+            "key": "giant poster",
+            "value": {
+              "override": false,
+              "rarity": 15
+            }
+          }
+        ],
+        "override_daytime_enemies_max_power": false,
+        "daytime_enemies_max_power": 18,
+        "override_daytime_enemies_probability": false,
+        "daytime_enemies_probability": 30.0,
+        "daytime_enemies": [
+          {
+            "key": "Red Locust Bees",
+            "value": {
+              "override": false,
+              "rarity": 6
+            }
+          },
+          {
+            "key": "Manticoil",
+            "value": {
+              "override": false,
+              "rarity": 41
+            }
+          },
+          {
+            "key": "Docile Locust Bees",
+            "value": {
+              "override": false,
+              "rarity": 94
+            }
+          }
+        ],
+        "override_outside_enemies_max_power": false,
+        "outside_enemies_max_power": 12,
+        "outside_enemies": [
+          {
+            "key": "Puffer",
+            "value": {
+              "override": false,
+              "rarity": 74
+            }
+          },
+          {
+            "key": "ForestGiant",
+            "value": {
+              "override": false,
+              "rarity": 46
+            }
+          },
+          {
+            "key": "Baboon hawk",
+            "value": {
+              "override": false,
+              "rarity": 29
+            }
+          }
+        ],
+        "override_inside_enemies_max_power": false,
+        "inside_enemies_max_power": 17,
+        "override_inside_enemies_probability": false,
+        "inside_enemies_probability": 12.4,
+        "inside_enemies": [
+          {
+            "key": "Spring",
+            "value": {
+              "override": false,
+              "rarity": 6
+            }
+          },
+          {
+            "key": "Masked",
+            "value": {
+              "override": false,
+              "rarity": 28
+            }
+          },
+          {
+            "key": "Hoarding bug",
+            "value": {
+              "override": false,
+              "rarity": 57
+            }
+          },
+          {
+            "key": "Flowerman",
+            "value": {
+              "override": false,
+              "rarity": 21
+            }
+          },
+          {
+            "key": "Crawler",
+            "value": {
+              "override": false,
+              "rarity": 48
+            }
+          },
+          {
+            "key": "Jester",
+            "value": {
+              "override": false,
+              "rarity": 24
+            }
+          },
+          {
+            "key": "Girl",
+            "value": {
+              "override": false,
+              "rarity": 10
+            }
+          },
+          {
+            "key": "Puffer",
+            "value": {
+              "override": false,
+              "rarity": 66
+            }
+          },
+          {
+            "key": "Herobrine",
+            "value": {
+              "override": false,
+              "rarity": 55
+            }
+          },
+          {
+            "key": "ImmortalSnail",
+            "value": {
+              "override": false,
+              "rarity": 100
+            }
+          },
+          {
+            "key": "HarpGhost",
+            "value": {
+              "override": false,
+              "rarity": 75
+            }
+          },
+          {
+            "key": "Shrimp",
+            "value": {
+              "override": false,
+              "rarity": 15
+            }
+          },
+          {
+            "key": "RollingGiant",
+            "value": {
+              "override": false,
+              "rarity": 30
+            }
+          }
+        ]
+      }
+    },
+    {
+      "key": "8 Titan",
+      "value": {
+        "override_price": false,
+        "price": 700,
+        "override_dungeon_size": false,
+        "dungeon_size": 2.35,
+        "override_min_scrap_amount": false,
+        "min_scrap_amount": 23,
+        "override_max_scrap_amount": false,
+        "max_scrap_amount": 38,
+        "override_scrap_amount_modifier": false,
+        "scrap_amount_modifier": 1.0,
+        "override_scrap_value_modifier": false,
+        "scrap_value_modifier": 1.0,
+        "loot_table": [
+          {
+            "key": "Large axle",
+            "value": {
+              "override": false,
+              "rarity": 37
+            }
+          },
+          {
+            "key": "V-type engine",
+            "value": {
+              "override": false,
+              "rarity": 40
+            }
+          },
+          {
+            "key": "Plastic fish",
+            "value": {
+              "override": false,
+              "rarity": 16
+            }
+          },
+          {
+            "key": "Big bolt",
+            "value": {
+              "override": false,
+              "rarity": 47
+            }
+          },
+          {
+            "key": "Fancy lamp",
+            "value": {
+              "override": false,
+              "rarity": 27
+            }
+          },
+          {
+            "key": "Toy cube",
+            "value": {
+              "override": false,
+              "rarity": 20
+            }
+          },
+          {
+            "key": "Jar of pickles",
+            "value": {
+              "override": false,
+              "rarity": 8
+            }
+          },
+          {
+            "key": "Laser pointer",
+            "value": {
+              "override": false,
+              "rarity": 10
+            }
+          },
+          {
+            "key": "Golden cup",
+            "value": {
+              "override": false,
+              "rarity": 27
+            }
+          },
+          {
+            "key": "Painting",
+            "value": {
+              "override": false,
+              "rarity": 34
+            }
+          },
+          {
+            "key": "Bell",
+            "value": {
+              "override": false,
+              "rarity": 37
+            }
+          },
+          {
+            "key": "Ring",
+            "value": {
+              "override": false,
+              "rarity": 27
+            }
+          },
+          {
+            "key": "Toy robot",
+            "value": {
+              "override": false,
+              "rarity": 35
+            }
+          },
+          {
+            "key": "Toothpaste",
+            "value": {
+              "override": false,
+              "rarity": 36
+            }
+          },
+          {
+            "key": "Brush",
+            "value": {
+              "override": false,
+              "rarity": 31
+            }
+          },
+          {
+            "key": "Pill bottle",
+            "value": {
+              "override": false,
+              "rarity": 15
+            }
+          },
+          {
+            "key": "Perfume bottle",
+            "value": {
+              "override": false,
+              "rarity": 14
+            }
+          },
+          {
+            "key": "Mug",
+            "value": {
+              "override": false,
+              "rarity": 21
+            }
+          },
+          {
+            "key": "Bottles",
+            "value": {
+              "override": false,
+              "rarity": 33
+            }
+          },
+          {
+            "key": "Magnifying glass",
+            "value": {
+              "override": false,
+              "rarity": 25
+            }
+          },
+          {
+            "key": "Hairdryer",
+            "value": {
+              "override": false,
+              "rarity": 30
+            }
+          },
+          {
+            "key": "Old phone",
+            "value": {
+              "override": false,
+              "rarity": 22
+            }
+          },
+          {
+            "key": "Red soda",
+            "value": {
+              "override": false,
+              "rarity": 38
+            }
+          },
+          {
+            "key": "Teeth",
+            "value": {
+              "override": false,
+              "rarity": 21
+            }
+          },
+          {
+            "key": "Magic 7 ball",
+            "value": {
+              "override": false,
+              "rarity": 16
+            }
+          },
+          {
+            "key": "Rubber Ducky",
+            "value": {
+              "override": false,
+              "rarity": 24
+            }
+          },
+          {
+            "key": "Tea kettle",
+            "value": {
+              "override": false,
+              "rarity": 30
+            }
+          },
+          {
+            "key": "Airhorn",
+            "value": {
+              "override": false,
+              "rarity": 24
+            }
+          },
+          {
+            "key": "Clown horn",
+            "value": {
+              "override": false,
+              "rarity": 16
+            }
+          },
+          {
+            "key": "Homemade flashbang",
+            "value": {
+              "override": false,
+              "rarity": 9
+            }
+          },
+          {
+            "key": "Gift",
+            "value": {
+              "override": false,
+              "rarity": 17
+            }
+          },
+          {
+            "key": "Tragedy",
+            "value": {
+              "override": false,
+              "rarity": 46
+            }
+          },
+          {
+            "key": "Comedy",
+            "value": {
+              "override": false,
+              "rarity": 43
+            }
+          },
+          {
+            "key": "Whoopie cushion",
+            "value": {
+              "override": false,
+              "rarity": 26
+            }
+          },
+          {
+            "key": "Light shoes",
+            "value": {
+              "override": false,
+              "rarity": 2
+            }
+          },
+          {
+            "key": "Bunny ears",
+            "value": {
+              "override": false,
+              "rarity": 2
+            }
+          },
+          {
+            "key": "Potatoes",
+            "value": {
+              "override": false,
+              "rarity": 4
+            }
+          },
+          {
+            "key": "Toy car",
+            "value": {
+              "override": false,
+              "rarity": 10
+            }
+          },
+          {
+            "key": "Toy tank",
+            "value": {
+              "override": false,
+              "rarity": 10
+            }
+          },
+          {
+            "key": "Warplane toy",
+            "value": {
+              "override": false,
+              "rarity": 10
+            }
+          },
+          {
+            "key": "Skillet",
+            "value": {
+              "override": false,
+              "rarity": 10
+            }
+          },
+          {
+            "key": "Redstone Torch",
+            "value": {
+              "override": false,
+              "rarity": 5
+            }
+          },
+          {
+            "key": "Screwdriver",
+            "value": {
+              "override": false,
+              "rarity": 40
+            }
+          },
+          {
+            "key": "Gemstone",
+            "value": {
+              "override": false,
+              "rarity": 4
+            }
+          },
+          {
+            "key": "Harp",
+            "value": {
+              "override": false,
+              "rarity": 0
+            }
+          },
+          {
+            "key": "Army Helmet",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Army Canteen",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Gramophone",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Old Radio",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "RockingHorse",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "TypeWriter",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "WheelRim",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "WireSpool",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Weezer Guitar",
+            "value": {
+              "override": false,
+              "rarity": 10
+            }
+          },
+          {
+            "key": "Fire Axe",
+            "value": {
+              "override": false,
+              "rarity": 5
+            }
+          },
+          {
+            "key": "giant poster",
+            "value": {
+              "override": false,
+              "rarity": 15
+            }
+          }
+        ],
+        "override_daytime_enemies_max_power": false,
+        "daytime_enemies_max_power": 20,
+        "override_daytime_enemies_probability": false,
+        "daytime_enemies_probability": 10.0,
+        "daytime_enemies": [],
+        "override_outside_enemies_max_power": false,
+        "outside_enemies_max_power": 7,
+        "outside_enemies": [
+          {
+            "key": "ForestGiant",
+            "value": {
+              "override": false,
+              "rarity": 32
+            }
+          },
+          {
+            "key": "MouthDog",
+            "value": {
+              "override": false,
+              "rarity": 80
+            }
+          },
+          {
+            "key": "Earth Leviathan",
+            "value": {
+              "override": false,
+              "rarity": 4
+            }
+          }
+        ],
+        "override_inside_enemies_max_power": false,
+        "inside_enemies_max_power": 18,
+        "override_inside_enemies_probability": false,
+        "inside_enemies_probability": 2.0,
+        "inside_enemies": [
+          {
+            "key": "Girl",
+            "value": {
+              "override": false,
+              "rarity": 28
+            }
+          },
+          {
+            "key": "Lasso",
+            "value": {
+              "override": false,
+              "rarity": 0
+            }
+          },
+          {
+            "key": "Bunker Spider",
+            "value": {
+              "override": false,
+              "rarity": 59
+            }
+          },
+          {
+            "key": "Centipede",
+            "value": {
+              "override": false,
+              "rarity": 54
+            }
+          },
+          {
+            "key": "Blob",
+            "value": {
+              "override": false,
+              "rarity": 20
+            }
+          },
+          {
+            "key": "Flowerman",
+            "value": {
+              "override": false,
+              "rarity": 62
+            }
+          },
+          {
+            "key": "Spring",
+            "value": {
+              "override": false,
+              "rarity": 59
+            }
+          },
+          {
+            "key": "Crawler",
+            "value": {
+              "override": false,
+              "rarity": 54
+            }
+          },
+          {
+            "key": "Hoarding bug",
+            "value": {
+              "override": false,
+              "rarity": 38
+            }
+          },
+          {
+            "key": "Jester",
+            "value": {
+              "override": false,
+              "rarity": 71
+            }
+          },
+          {
+            "key": "Puffer",
+            "value": {
+              "override": false,
+              "rarity": 16
+            }
+          },
+          {
+            "key": "Nutcracker",
+            "value": {
+              "override": false,
+              "rarity": 71
+            }
+          },
+          {
+            "key": "Masked",
+            "value": {
+              "override": false,
+              "rarity": 32
+            }
+          },
+          {
+            "key": "Walker",
+            "value": {
+              "override": false,
+              "rarity": 10
+            }
+          },
+          {
+            "key": "Herobrine",
+            "value": {
+              "override": false,
+              "rarity": 60
+            }
+          },
+          {
+            "key": "ImmortalSnail",
+            "value": {
+              "override": false,
+              "rarity": 100
+            }
+          },
+          {
+            "key": "HarpGhost",
+            "value": {
+              "override": false,
+              "rarity": 75
+            }
+          },
+          {
+            "key": "Shrimp",
+            "value": {
+              "override": false,
+              "rarity": 15
+            }
+          },
+          {
+            "key": "RollingGiant",
+            "value": {
+              "override": false,
+              "rarity": 30
+            }
+          }
+        ]
+      }
+    },
+    {
+      "key": "85 Rend",
+      "value": {
+        "override_price": false,
+        "price": 550,
+        "override_dungeon_size": false,
+        "dungeon_size": 1.2,
+        "override_min_scrap_amount": false,
+        "min_scrap_amount": 18,
+        "override_max_scrap_amount": false,
+        "max_scrap_amount": 26,
+        "override_scrap_amount_modifier": false,
+        "scrap_amount_modifier": 1.0,
+        "override_scrap_value_modifier": false,
+        "scrap_value_modifier": 1.0,
+        "loot_table": [
+          {
+            "key": "Large axle",
+            "value": {
+              "override": false,
+              "rarity": 2
+            }
+          },
+          {
+            "key": "V-type engine",
+            "value": {
+              "override": false,
+              "rarity": 2
+            }
+          },
+          {
+            "key": "Plastic fish",
+            "value": {
+              "override": false,
+              "rarity": 16
+            }
+          },
+          {
+            "key": "Big bolt",
+            "value": {
+              "override": false,
+              "rarity": 4
+            }
+          },
+          {
+            "key": "Fancy lamp",
+            "value": {
+              "override": false,
+              "rarity": 49
+            }
+          },
+          {
+            "key": "Toy cube",
+            "value": {
+              "override": false,
+              "rarity": 33
+            }
+          },
+          {
+            "key": "Jar of pickles",
+            "value": {
+              "override": false,
+              "rarity": 4
+            }
+          },
+          {
+            "key": "Laser pointer",
+            "value": {
+              "override": false,
+              "rarity": 5
+            }
+          },
+          {
+            "key": "Golden cup",
+            "value": {
+              "override": false,
+              "rarity": 24
+            }
+          },
+          {
+            "key": "Painting",
+            "value": {
+              "override": false,
+              "rarity": 56
+            }
+          },
+          {
+            "key": "Bell",
+            "value": {
+              "override": false,
+              "rarity": 48
+            }
+          },
+          {
+            "key": "Ring",
+            "value": {
+              "override": false,
+              "rarity": 19
+            }
+          },
+          {
+            "key": "Toy robot",
+            "value": {
+              "override": false,
+              "rarity": 46
+            }
+          },
+          {
+            "key": "Toothpaste",
+            "value": {
+              "override": false,
+              "rarity": 24
+            }
+          },
+          {
+            "key": "Brush",
+            "value": {
+              "override": false,
+              "rarity": 25
+            }
+          },
+          {
+            "key": "Pill bottle",
+            "value": {
+              "override": false,
+              "rarity": 4
+            }
+          },
+          {
+            "key": "Perfume bottle",
+            "value": {
+              "override": false,
+              "rarity": 28
+            }
+          },
+          {
+            "key": "Mug",
+            "value": {
+              "override": false,
+              "rarity": 44
+            }
+          },
+          {
+            "key": "Bottles",
+            "value": {
+              "override": false,
+              "rarity": 46
+            }
+          },
+          {
+            "key": "Magnifying glass",
+            "value": {
+              "override": false,
+              "rarity": 35
+            }
+          },
+          {
+            "key": "Hairdryer",
+            "value": {
+              "override": false,
+              "rarity": 43
+            }
+          },
+          {
+            "key": "Old phone",
+            "value": {
+              "override": false,
+              "rarity": 17
+            }
+          },
+          {
+            "key": "Red soda",
+            "value": {
+              "override": false,
+              "rarity": 26
+            }
+          },
+          {
+            "key": "Teeth",
+            "value": {
+              "override": false,
+              "rarity": 31
+            }
+          },
+          {
+            "key": "Magic 7 ball",
+            "value": {
+              "override": false,
+              "rarity": 23
+            }
+          },
+          {
+            "key": "Rubber Ducky",
+            "value": {
+              "override": false,
+              "rarity": 16
+            }
+          },
+          {
+            "key": "Tea kettle",
+            "value": {
+              "override": false,
+              "rarity": 25
+            }
+          },
+          {
+            "key": "Cash register",
+            "value": {
+              "override": false,
+              "rarity": 16
+            }
+          },
+          {
+            "key": "Airhorn",
+            "value": {
+              "override": false,
+              "rarity": 8
+            }
+          },
+          {
+            "key": "Clown horn",
+            "value": {
+              "override": false,
+              "rarity": 8
+            }
+          },
+          {
+            "key": "Candy",
+            "value": {
+              "override": false,
+              "rarity": 15
+            }
+          },
+          {
+            "key": "Gift",
+            "value": {
+              "override": false,
+              "rarity": 19
+            }
+          },
+          {
+            "key": "Comedy",
+            "value": {
+              "override": false,
+              "rarity": 53
+            }
+          },
+          {
+            "key": "Tragedy",
+            "value": {
+              "override": false,
+              "rarity": 25
+            }
+          },
+          {
+            "key": "Light shoes",
+            "value": {
+              "override": false,
+              "rarity": 2
+            }
+          },
+          {
+            "key": "Bunny ears",
+            "value": {
+              "override": false,
+              "rarity": 2
+            }
+          },
+          {
+            "key": "Potatoes",
+            "value": {
+              "override": false,
+              "rarity": 2
+            }
+          },
+          {
+            "key": "Toy car",
+            "value": {
+              "override": false,
+              "rarity": 10
+            }
+          },
+          {
+            "key": "Toy tank",
+            "value": {
+              "override": false,
+              "rarity": 10
+            }
+          },
+          {
+            "key": "Warplane toy",
+            "value": {
+              "override": false,
+              "rarity": 10
+            }
+          },
+          {
+            "key": "Skillet",
+            "value": {
+              "override": false,
+              "rarity": 10
+            }
+          },
+          {
+            "key": "Controller",
+            "value": {
+              "override": false,
+              "rarity": 2
+            }
+          },
+          {
+            "key": "Redstone Torch",
+            "value": {
+              "override": false,
+              "rarity": 5
+            }
+          },
+          {
+            "key": "Screwdriver",
+            "value": {
+              "override": false,
+              "rarity": 40
+            }
+          },
+          {
+            "key": "Gemstone",
+            "value": {
+              "override": false,
+              "rarity": 4
+            }
+          },
+          {
+            "key": "Harp",
+            "value": {
+              "override": false,
+              "rarity": 0
+            }
+          },
+          {
+            "key": "Army Helmet",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Army Canteen",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Gramophone",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Old Radio",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "RockingHorse",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "TypeWriter",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "WheelRim",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "WireSpool",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Weezer Guitar",
+            "value": {
+              "override": false,
+              "rarity": 10
+            }
+          },
+          {
+            "key": "Fire Axe",
+            "value": {
+              "override": false,
+              "rarity": 5
+            }
+          },
+          {
+            "key": "giant poster",
+            "value": {
+              "override": false,
+              "rarity": 15
+            }
+          }
+        ],
+        "override_daytime_enemies_max_power": false,
+        "daytime_enemies_max_power": 20,
+        "override_daytime_enemies_probability": false,
+        "daytime_enemies_probability": 10.0,
+        "daytime_enemies": [],
+        "override_outside_enemies_max_power": false,
+        "outside_enemies_max_power": 6,
+        "outside_enemies": [
+          {
+            "key": "ForestGiant",
+            "value": {
+              "override": false,
+              "rarity": 60
+            }
+          },
+          {
+            "key": "MouthDog",
+            "value": {
+              "override": false,
+              "rarity": 74
+            }
+          },
+          {
+            "key": "Earth Leviathan",
+            "value": {
+              "override": false,
+              "rarity": 18
+            }
+          }
+        ],
+        "override_inside_enemies_max_power": false,
+        "inside_enemies_max_power": 10,
+        "override_inside_enemies_probability": false,
+        "inside_enemies_probability": 3.0,
+        "inside_enemies": [
+          {
+            "key": "Girl",
+            "value": {
+              "override": false,
+              "rarity": 20
+            }
+          },
+          {
+            "key": "Lasso",
+            "value": {
+              "override": false,
+              "rarity": 0
+            }
+          },
+          {
+            "key": "Bunker Spider",
+            "value": {
+              "override": false,
+              "rarity": 43
+            }
+          },
+          {
+            "key": "Centipede",
+            "value": {
+              "override": false,
+              "rarity": 31
+            }
+          },
+          {
+            "key": "Blob",
+            "value": {
+              "override": false,
+              "rarity": 6
+            }
+          },
+          {
+            "key": "Flowerman",
+            "value": {
+              "override": false,
+              "rarity": 51
+            }
+          },
+          {
+            "key": "Spring",
+            "value": {
+              "override": false,
+              "rarity": 43
+            }
+          },
+          {
+            "key": "Jester",
+            "value": {
+              "override": false,
+              "rarity": 60
+            }
+          },
+          {
+            "key": "Puffer",
+            "value": {
+              "override": false,
+              "rarity": 7
+            }
+          },
+          {
+            "key": "Nutcracker",
+            "value": {
+              "override": false,
+              "rarity": 100
+            }
+          },
+          {
+            "key": "Masked",
+            "value": {
+              "override": false,
+              "rarity": 25
+            }
+          },
+          {
+            "key": "Walker",
+            "value": {
+              "override": false,
+              "rarity": 10
+            }
+          },
+          {
+            "key": "Herobrine",
+            "value": {
+              "override": false,
+              "rarity": 40
+            }
+          },
+          {
+            "key": "ImmortalSnail",
+            "value": {
+              "override": false,
+              "rarity": 100
+            }
+          },
+          {
+            "key": "HarpGhost",
+            "value": {
+              "override": false,
+              "rarity": 75
+            }
+          },
+          {
+            "key": "Shrimp",
+            "value": {
+              "override": false,
+              "rarity": 15
+            }
+          },
+          {
+            "key": "RollingGiant",
+            "value": {
+              "override": false,
+              "rarity": 30
+            }
+          }
+        ]
+      }
+    },
+    {
+      "key": "94 Polarus",
+      "value": {
+        "override_price": false,
+        "price": 10,
+        "override_dungeon_size": false,
+        "dungeon_size": 2.0,
+        "override_min_scrap_amount": false,
+        "min_scrap_amount": 30,
+        "override_max_scrap_amount": false,
+        "max_scrap_amount": 37,
+        "override_scrap_amount_modifier": false,
+        "scrap_amount_modifier": 1.0,
+        "override_scrap_value_modifier": false,
+        "scrap_value_modifier": 1.0,
+        "loot_table": [
+          {
+            "key": "Ice Cube",
+            "value": {
+              "override": false,
+              "rarity": 32
+            }
+          },
+          {
+            "key": "Dead Ice Crystal",
+            "value": {
+              "override": false,
+              "rarity": 30
+            }
+          },
+          {
+            "key": "Leviathan Tooth",
+            "value": {
+              "override": false,
+              "rarity": 28
+            }
+          },
+          {
+            "key": "Silver Coin",
+            "value": {
+              "override": false,
+              "rarity": 26
+            }
+          },
+          {
+            "key": "Silver Bug",
+            "value": {
+              "override": false,
+              "rarity": 23
+            }
+          },
+          {
+            "key": "Silver Key",
+            "value": {
+              "override": false,
+              "rarity": 20
+            }
+          },
+          {
+            "key": "Ice Crystal",
+            "value": {
+              "override": false,
+              "rarity": 17
+            }
+          },
+          {
+            "key": "Vase",
+            "value": {
+              "override": false,
+              "rarity": 20
+            }
+          },
+          {
+            "key": "Jewel Box",
+            "value": {
+              "override": false,
+              "rarity": 21
+            }
+          },
+          {
+            "key": "Picture Frame",
+            "value": {
+              "override": false,
+              "rarity": 15
+            }
+          },
+          {
+            "key": "Jewel Case",
+            "value": {
+              "override": false,
+              "rarity": 9
+            }
+          },
+          {
+            "key": "Large Plant",
+            "value": {
+              "override": false,
+              "rarity": 14
+            }
+          },
+          {
+            "key": "Safe",
+            "value": {
+              "override": false,
+              "rarity": 7
+            }
+          },
+          {
+            "key": "Undelivered Letter 1",
+            "value": {
+              "override": false,
+              "rarity": 8
+            }
+          },
+          {
+            "key": "Undelivered Letter 2",
+            "value": {
+              "override": false,
+              "rarity": 8
+            }
+          },
+          {
+            "key": "Undelivered Letter 3",
+            "value": {
+              "override": false,
+              "rarity": 8
+            }
+          },
+          {
+            "key": "Undelivered Letter 4",
+            "value": {
+              "override": false,
+              "rarity": 8
+            }
+          },
+          {
+            "key": "Raw Gold",
+            "value": {
+              "override": false,
+              "rarity": 2
+            }
+          },
+          {
+            "key": "Cursed Coin",
+            "value": {
+              "override": false,
+              "rarity": 10
+            }
+          },
+          {
+            "key": "Ring",
+            "value": {
+              "override": false,
+              "rarity": 14
+            }
+          },
+          {
+            "key": "Cash register",
+            "value": {
+              "override": false,
+              "rarity": 3
+            }
+          },
+          {
+            "key": "Magnifying glass",
+            "value": {
+              "override": false,
+              "rarity": 5
+            }
+          },
+          {
+            "key": "Fancy lamp",
+            "value": {
+              "override": false,
+              "rarity": 6
+            }
+          },
+          {
+            "key": "Golden cup",
+            "value": {
+              "override": false,
+              "rarity": 8
+            }
+          },
+          {
+            "key": "Perfume bottle",
+            "value": {
+              "override": false,
+              "rarity": 9
+            }
+          },
+          {
+            "key": "Redstone Torch",
+            "value": {
+              "override": false,
+              "rarity": 3
+            }
+          },
+          {
+            "key": "Screwdriver",
+            "value": {
+              "override": false,
+              "rarity": 40
+            }
+          },
+          {
+            "key": "Gemstone",
+            "value": {
+              "override": false,
+              "rarity": 4
+            }
+          },
+          {
+            "key": "Harp",
+            "value": {
+              "override": false,
+              "rarity": 0
+            }
+          },
+          {
+            "key": "Army Helmet",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Army Canteen",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Gramophone",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Old Radio",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "RockingHorse",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "TypeWriter",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "WheelRim",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "WireSpool",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Weezer Guitar",
+            "value": {
+              "override": false,
+              "rarity": 10
+            }
+          },
+          {
+            "key": "giant poster",
+            "value": {
+              "override": false,
+              "rarity": 15
+            }
+          }
+        ],
+        "override_daytime_enemies_max_power": false,
+        "daytime_enemies_max_power": 5,
+        "override_daytime_enemies_probability": false,
+        "daytime_enemies_probability": 5.0,
+        "daytime_enemies": [
+          {
+            "key": "Manticoil",
+            "value": {
+              "override": false,
+              "rarity": 87
+            }
+          },
+          {
+            "key": "Docile Locust Bees",
+            "value": {
+              "override": false,
+              "rarity": 26
+            }
+          },
+          {
+            "key": "Blob",
+            "value": {
+              "override": false,
+              "rarity": 18
+            }
+          }
+        ],
+        "override_outside_enemies_max_power": false,
+        "outside_enemies_max_power": 14,
+        "outside_enemies": [
+          {
+            "key": "MouthDog",
+            "value": {
+              "override": false,
+              "rarity": 50
+            }
+          },
+          {
+            "key": "ForestGiant",
+            "value": {
+              "override": false,
+              "rarity": 7
+            }
+          },
+          {
+            "key": "Earth Leviathan",
+            "value": {
+              "override": false,
+              "rarity": 32
+            }
+          },
+          {
+            "key": "Blob",
+            "value": {
+              "override": false,
+              "rarity": 68
+            }
+          }
+        ],
+        "override_inside_enemies_max_power": false,
+        "inside_enemies_max_power": 18,
+        "override_inside_enemies_probability": false,
+        "inside_enemies_probability": 4.0,
+        "inside_enemies": [
+          {
+            "key": "Hoarding bug",
+            "value": {
+              "override": false,
+              "rarity": 28
+            }
+          },
+          {
+            "key": "Flowerman",
+            "value": {
+              "override": false,
+              "rarity": 13
+            }
+          },
+          {
+            "key": "Crawler",
+            "value": {
+              "override": false,
+              "rarity": 16
+            }
+          },
+          {
+            "key": "Blob",
+            "value": {
+              "override": false,
+              "rarity": 31
+            }
+          },
+          {
+            "key": "Girl",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Puffer",
+            "value": {
+              "override": false,
+              "rarity": 30
+            }
+          },
+          {
+            "key": "Spring",
+            "value": {
+              "override": false,
+              "rarity": 20
+            }
+          },
+          {
+            "key": "Nutcracker",
+            "value": {
+              "override": false,
+              "rarity": 31
+            }
+          },
+          {
+            "key": "Earth Leviathan",
+            "value": {
+              "override": false,
+              "rarity": 8
+            }
+          },
+          {
+            "key": "Herobrine",
+            "value": {
+              "override": false,
+              "rarity": 40
+            }
+          },
+          {
+            "key": "ImmortalSnail",
+            "value": {
+              "override": false,
+              "rarity": 100
+            }
+          },
+          {
+            "key": "HarpGhost",
+            "value": {
+              "override": false,
+              "rarity": 75
+            }
+          },
+          {
+            "key": "Shrimp",
+            "value": {
+              "override": false,
+              "rarity": 15
+            }
+          },
+          {
+            "key": "RollingGiant",
+            "value": {
+              "override": false,
+              "rarity": 30
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

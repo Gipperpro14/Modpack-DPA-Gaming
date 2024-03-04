@@ -2,10 +2,10 @@
 
 En este modpack encontraras una versión del juego bastante divertida, pero principalmente desafiante sin llegar a ser injusta (o eso creo). Podrás notar todos estos cambios en el lobby, jugabilidad, calidad, rendimiento, entretenimiento, cosméticos y nuevas entidades.
 
-**README DESACTUALIZADO A MEDIAS, ya actulice algo el README quite cosas que ya no son ciertas pero me faltan añadir que cosas nuevas hay sera en la siguiente version que añada estos cambios al README**
+**README DESACTUALIZADO A MEDIAS, ya actulice algo el README quite cosas que ya no son ciertas pero me faltan añadir que cosas nuevas hay sera en la siguiente version que añada estos cambios al README. (Sera cuando pueda que es un monton xd)**
 
 ## Cambios Principales
-* **3 días** para completar la cuota.
+* **4 días** para completar la cuota.
 * No hay penalización monetaria del 20% por cada miembro del equipo que no haya sido recuperado, en su lugar **aumentara la cuota en 5%** por cada miembro del equipo (aumento permanente). Además de eso aumentara por **2** de que se active un malfuncionamiento de la nave.
 * Sistema de perks, terminal remota y mejorado sistema de XP para el nivel del usuario.
 
@@ -28,27 +28,27 @@ En este modpack encontraras una versión del juego bastante divertida, pero prin
 * Aturde a las avispas con el spray.
 * Aturde a los enemigos en general con el spray. **(No he probado con todos los enemigos, principalmento los nuevos)**
 * El control remoto ahora puede **desactivar torretas y minas**. (15 metros para que funcione)
-* Añade **nuevos interiores** en ciertas lunas, aquí las probabilidades:
+* Añade **nuevos interiores** en ciertas lunas:
     - Easy Moon:
-        * Experimentation (Fabrica)
-        * Assurance (Bunker)
-        * Vow (Office)
+        * Experimentation
+        * Assurance
+        * Vow
     - Medium Moon:
-        * Offense (Castle)
-        * March (Sewer)
+        * Offense
+        * March
     - Hard Moon:
-        * Rend (Scarlet Devil Masion)
-        * Dine (Mansion)
-        * Titan (SCP)
+        * Rend
+        * Dine
+        * Titan
     - Custom Moons:
-        * Acidir (Mental Hospital)
-        * Asteroid13 (Mental Hospital)
-        * Atlantica (Sewer)
-        * Cosmocos (Variacion Fabrica)
-        * Etern (Bunker)
-        * Gratar (Variacion Fabrica)
-        * Infernis (Castle)
-        * Polarus (Bunker)
+        * Acidir
+        * Asteroid13
+        * Atlantica
+        * Cosmocos
+        * Etern
+        * Gratar
+        * Infernis
+        * Polarus
 * Añade a los enemigos la **habilidad de escuchar y repetir** lo que dicen tus compañeros.
 * Las minas ahora pueden ser **detonadas por los enemigos** e igual las torretas **apuntaran a todos** sin importar si son jugadores o enemigos.
 * 2 eventos se seleccionarán en cada partida variando las mecánicas a usar.

@@ -2,6 +2,45 @@
 
 ### Versión 1.2.X
 <details>
+<summary>Versión 1.2.8</summary>
+
+- Reparado el bug de las balas de escopeta, ya se pueden comprar y usar.
+- Actualizaciones disponibles de todos los mods. (02/03/24)
+
+</details>
+
+<details>
+<summary>Versión 1.2.7</summary>
+
+- Añadido boombox controler, nuevamente.
+
+</details>
+
+<details>
+<summary>Versión 1.2.6</summary>
+
+- Optimizacion mejorada, agregada una configuracion de "HDLethalCompany" que ayuda al rendimiento sin joder en exceso la calidad.
+- Agregados algunos mods para mejorar la calidad de juego.
+
+</details>
+
+<details>
+<summary>Versión 1.2.5</summary>
+
+- Full optimizacion del modpack, eliminados mods con muchos bugs. (Mod que genere muchos bugs, mod que se va)
+- Actualizaciones disponibles de todos los mods. (01/03/24)
+
+</details>
+
+<details>
+<summary>Versión 1.2.4</summary>
+
+- Arreglado errores de sincronizacion.
+- Actualizaciones disponibles de todos los mods. (29/02/24)
+
+</details>
+
+<details>
 <summary>Versión 1.2.3</summary>
 
 - Actualizado el README.
