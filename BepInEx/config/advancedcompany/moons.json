@@ -404,6 +404,13 @@
             }
           },
           {
+            "key": "Halt",
+            "value": {
+              "override": false,
+              "rarity": 0
+            }
+          },
+          {
             "key": "RollingGiant",
             "value": {
               "override": false,
@@ -880,6 +887,13 @@
             }
           },
           {
+            "key": "Halt",
+            "value": {
+              "override": false,
+              "rarity": 0
+            }
+          },
+          {
             "key": "RollingGiant",
             "value": {
               "override": false,
@@ -1339,6 +1353,13 @@
             "value": {
               "override": false,
               "rarity": 15
+            }
+          },
+          {
+            "key": "Halt",
+            "value": {
+              "override": false,
+              "rarity": 0
             }
           },
           {
@@ -1902,6 +1923,13 @@
             }
           },
           {
+            "key": "Halt",
+            "value": {
+              "override": false,
+              "rarity": 0
+            }
+          },
+          {
             "key": "RollingGiant",
             "value": {
               "override": false,
@@ -1917,7 +1945,7 @@
         "override_price": false,
         "price": 0,
         "override_dungeon_size": false,
-        "dungeon_size": 1.0,
+        "dungeon_size": 1.25,
         "override_min_scrap_amount": false,
         "min_scrap_amount": 8,
         "override_max_scrap_amount": false,
@@ -2223,7 +2251,7 @@
           }
         ],
         "override_daytime_enemies_max_power": false,
-        "daytime_enemies_max_power": 5,
+        "daytime_enemies_max_power": 12,
         "override_daytime_enemies_probability": false,
         "daytime_enemies_probability": 5.0,
         "daytime_enemies": [
@@ -2257,7 +2285,7 @@
           }
         ],
         "override_outside_enemies_max_power": false,
-        "outside_enemies_max_power": 8,
+        "outside_enemies_max_power": 11,
         "outside_enemies": [
           {
             "key": "MouthDog",
@@ -2279,10 +2307,17 @@
               "override": false,
               "rarity": 56
             }
+          },
+          {
+            "key": "AntiCoilHead",
+            "value": {
+              "override": false,
+              "rarity": 10
+            }
           }
         ],
         "override_inside_enemies_max_power": false,
-        "inside_enemies_max_power": 4,
+        "inside_enemies_max_power": 12,
         "override_inside_enemies_probability": false,
         "inside_enemies_probability": 4.0,
         "inside_enemies": [
@@ -2385,10 +2420,38 @@
             }
           },
           {
+            "key": "Halt",
+            "value": {
+              "override": false,
+              "rarity": 0
+            }
+          },
+          {
             "key": "RollingGiant",
             "value": {
               "override": false,
               "rarity": 30
+            }
+          },
+          {
+            "key": "Jester",
+            "value": {
+              "override": false,
+              "rarity": 3
+            }
+          },
+          {
+            "key": "Lasso",
+            "value": {
+              "override": false,
+              "rarity": 1
+            }
+          },
+          {
+            "key": "Spring",
+            "value": {
+              "override": false,
+              "rarity": 3
             }
           }
         ]
@@ -2774,6 +2837,13 @@
             "value": {
               "override": false,
               "rarity": 15
+            }
+          },
+          {
+            "key": "Halt",
+            "value": {
+              "override": false,
+              "rarity": 0
             }
           },
           {
@@ -3173,6 +3243,13 @@
             "value": {
               "override": false,
               "rarity": 15
+            }
+          },
+          {
+            "key": "Halt",
+            "value": {
+              "override": false,
+              "rarity": 0
             }
           },
           {
@@ -3586,6 +3663,13 @@
             "value": {
               "override": false,
               "rarity": 15
+            }
+          },
+          {
+            "key": "Halt",
+            "value": {
+              "override": false,
+              "rarity": 0
             }
           },
           {
@@ -4135,6 +4219,13 @@
             }
           },
           {
+            "key": "Halt",
+            "value": {
+              "override": false,
+              "rarity": 0
+            }
+          },
+          {
             "key": "RollingGiant",
             "value": {
               "override": false,
@@ -4524,6 +4615,13 @@
             "value": {
               "override": false,
               "rarity": 15
+            }
+          },
+          {
+            "key": "Halt",
+            "value": {
+              "override": false,
+              "rarity": 0
             }
           },
           {
@@ -5021,6 +5119,13 @@
             "value": {
               "override": false,
               "rarity": 15
+            }
+          },
+          {
+            "key": "Halt",
+            "value": {
+              "override": false,
+              "rarity": 0
             }
           },
           {
@@ -5618,6 +5723,13 @@
             }
           },
           {
+            "key": "Halt",
+            "value": {
+              "override": false,
+              "rarity": 0
+            }
+          },
+          {
             "key": "RollingGiant",
             "value": {
               "override": false,
@@ -5767,6 +5879,13 @@
             "value": {
               "override": false,
               "rarity": 15
+            }
+          },
+          {
+            "key": "Halt",
+            "value": {
+              "override": false,
+              "rarity": 0
             }
           },
           {
@@ -6137,7 +6256,7 @@
             "key": "Masked",
             "value": {
               "override": false,
-              "rarity": 28
+              "rarity": 13
             }
           },
           {
@@ -6208,6 +6327,13 @@
             "value": {
               "override": false,
               "rarity": 15
+            }
+          },
+          {
+            "key": "Halt",
+            "value": {
+              "override": false,
+              "rarity": 0
             }
           },
           {
@@ -6791,6 +6917,13 @@
             }
           },
           {
+            "key": "Halt",
+            "value": {
+              "override": false,
+              "rarity": 0
+            }
+          },
+          {
             "key": "RollingGiant",
             "value": {
               "override": false,
@@ -7364,6 +7497,13 @@
             }
           },
           {
+            "key": "Halt",
+            "value": {
+              "override": false,
+              "rarity": 0
+            }
+          },
+          {
             "key": "RollingGiant",
             "value": {
               "override": false,
@@ -7816,6 +7956,13 @@
             "value": {
               "override": false,
               "rarity": 15
+            }
+          },
+          {
+            "key": "Halt",
+            "value": {
+              "override": false,
+              "rarity": 0
             }
           },
           {

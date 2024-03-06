@@ -2,6 +2,14 @@
 
 ### Versión 1.2.X
 <details>
+<summary>Versión 1.2.9</summary>
+
+- Proxima update sera la 1.3.0 ahi hare muchos cambios, incluyendo la actualizacion del README.
+- Actualizaciones disponibles de todos los mods. (05/03/24)
+
+</details>
+
+<details>
 <summary>Versión 1.2.8</summary>
 
 - Reparado el bug de las balas de escopeta, ya se pueden comprar y usar.

@@ -1,6 +1,14 @@
 {
   "enemies": [
     {
+      "key": "AntiCoilHead",
+      "value": {
+        "active": true,
+        "override_power_level": false,
+        "power_level": 1
+      }
+    },
+    {
       "key": "Baboon hawk",
       "value": {
         "active": true,
@@ -78,6 +86,14 @@
         "active": true,
         "override_power_level": false,
         "power_level": 2
+      }
+    },
+    {
+      "key": "Halt",
+      "value": {
+        "active": true,
+        "override_power_level": false,
+        "power_level": 0
       }
     },
     {

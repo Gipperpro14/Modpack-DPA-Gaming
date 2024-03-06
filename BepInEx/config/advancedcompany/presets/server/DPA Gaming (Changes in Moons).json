@@ -1635,6 +1635,20 @@
                 "override": false,
                 "rarity": 0
               }
+            },
+            {
+              "key": "Halt",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "AntiCoilHead",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
             }
           ],
           "override_outside_enemies_max_power": true,
@@ -1824,6 +1838,20 @@
             },
             {
               "key": "Walker",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Halt",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "AntiCoilHead",
               "value": {
                 "override": false,
                 "rarity": 0
@@ -2022,6 +2050,20 @@
               "value": {
                 "override": true,
                 "rarity": 20
+              }
+            },
+            {
+              "key": "Halt",
+              "value": {
+                "override": true,
+                "rarity": 5
+              }
+            },
+            {
+              "key": "AntiCoilHead",
+              "value": {
+                "override": false,
+                "rarity": 0
               }
             }
           ]
@@ -3637,6 +3679,20 @@
                 "override": false,
                 "rarity": 0
               }
+            },
+            {
+              "key": "Halt",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "AntiCoilHead",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
             }
           ],
           "override_outside_enemies_max_power": true,
@@ -3826,6 +3882,20 @@
             },
             {
               "key": "Walker",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Halt",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "AntiCoilHead",
               "value": {
                 "override": false,
                 "rarity": 0
@@ -4024,6 +4094,20 @@
               "value": {
                 "override": true,
                 "rarity": 15
+              }
+            },
+            {
+              "key": "Halt",
+              "value": {
+                "override": true,
+                "rarity": 7
+              }
+            },
+            {
+              "key": "AntiCoilHead",
+              "value": {
+                "override": false,
+                "rarity": 0
               }
             }
           ]
@@ -5639,6 +5723,20 @@
                 "override": false,
                 "rarity": 0
               }
+            },
+            {
+              "key": "Halt",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "AntiCoilHead",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
             }
           ],
           "override_outside_enemies_max_power": true,
@@ -5828,6 +5926,20 @@
             },
             {
               "key": "Walker",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Halt",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "AntiCoilHead",
               "value": {
                 "override": false,
                 "rarity": 0
@@ -6023,6 +6135,20 @@
             },
             {
               "key": "Red Locust Bees",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Halt",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "AntiCoilHead",
               "value": {
                 "override": false,
                 "rarity": 0
@@ -7641,6 +7767,20 @@
                 "override": false,
                 "rarity": 0
               }
+            },
+            {
+              "key": "Halt",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "AntiCoilHead",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
             }
           ],
           "override_outside_enemies_max_power": true,
@@ -7830,6 +7970,20 @@
             },
             {
               "key": "Walker",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Halt",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "AntiCoilHead",
               "value": {
                 "override": false,
                 "rarity": 0
@@ -8025,6 +8179,20 @@
             },
             {
               "key": "Spring",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Halt",
+              "value": {
+                "override": true,
+                "rarity": 1
+              }
+            },
+            {
+              "key": "AntiCoilHead",
               "value": {
                 "override": false,
                 "rarity": 0
@@ -9643,6 +9811,20 @@
                 "override": false,
                 "rarity": 0
               }
+            },
+            {
+              "key": "Halt",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "AntiCoilHead",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
             }
           ],
           "override_outside_enemies_max_power": true,
@@ -9835,6 +10017,20 @@
               "value": {
                 "override": false,
                 "rarity": 0
+              }
+            },
+            {
+              "key": "Halt",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "AntiCoilHead",
+              "value": {
+                "override": false,
+                "rarity": 10
               }
             }
           ],
@@ -10030,6 +10226,20 @@
               "value": {
                 "override": true,
                 "rarity": 3
+              }
+            },
+            {
+              "key": "Halt",
+              "value": {
+                "override": true,
+                "rarity": 3
+              }
+            },
+            {
+              "key": "AntiCoilHead",
+              "value": {
+                "override": false,
+                "rarity": 0
               }
             }
           ]
@@ -11645,6 +11855,20 @@
                 "override": false,
                 "rarity": 0
               }
+            },
+            {
+              "key": "Halt",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "AntiCoilHead",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
             }
           ],
           "override_outside_enemies_max_power": true,
@@ -11834,6 +12058,20 @@
             },
             {
               "key": "Walker",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Halt",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "AntiCoilHead",
               "value": {
                 "override": false,
                 "rarity": 0
@@ -12032,6 +12270,20 @@
               "value": {
                 "override": true,
                 "rarity": 10
+              }
+            },
+            {
+              "key": "Halt",
+              "value": {
+                "override": true,
+                "rarity": 15
+              }
+            },
+            {
+              "key": "AntiCoilHead",
+              "value": {
+                "override": false,
+                "rarity": 0
               }
             }
           ]
@@ -13647,6 +13899,20 @@
                 "override": false,
                 "rarity": 5
               }
+            },
+            {
+              "key": "Halt",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "AntiCoilHead",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
             }
           ],
           "override_outside_enemies_max_power": true,
@@ -13839,6 +14105,20 @@
               "value": {
                 "override": true,
                 "rarity": 10
+              }
+            },
+            {
+              "key": "Halt",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "AntiCoilHead",
+              "value": {
+                "override": false,
+                "rarity": 0
               }
             }
           ],
@@ -14034,6 +14314,20 @@
               "value": {
                 "override": true,
                 "rarity": 10
+              }
+            },
+            {
+              "key": "Halt",
+              "value": {
+                "override": true,
+                "rarity": 3
+              }
+            },
+            {
+              "key": "AntiCoilHead",
+              "value": {
+                "override": false,
+                "rarity": 0
               }
             }
           ]
@@ -15649,6 +15943,20 @@
                 "override": false,
                 "rarity": 1
               }
+            },
+            {
+              "key": "Halt",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "AntiCoilHead",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
             }
           ],
           "override_outside_enemies_max_power": true,
@@ -15838,6 +16146,20 @@
             },
             {
               "key": "Walker",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Halt",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "AntiCoilHead",
               "value": {
                 "override": false,
                 "rarity": 0
@@ -16036,6 +16358,20 @@
               "value": {
                 "override": true,
                 "rarity": 15
+              }
+            },
+            {
+              "key": "Halt",
+              "value": {
+                "override": true,
+                "rarity": 3
+              }
+            },
+            {
+              "key": "AntiCoilHead",
+              "value": {
+                "override": false,
+                "rarity": 0
               }
             }
           ]
@@ -17651,6 +17987,20 @@
                 "override": false,
                 "rarity": 0
               }
+            },
+            {
+              "key": "Halt",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "AntiCoilHead",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
             }
           ],
           "override_outside_enemies_max_power": true,
@@ -17840,6 +18190,20 @@
             },
             {
               "key": "Walker",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Halt",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "AntiCoilHead",
               "value": {
                 "override": false,
                 "rarity": 0
@@ -18035,6 +18399,20 @@
             },
             {
               "key": "Red Locust Bees",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Halt",
+              "value": {
+                "override": true,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "AntiCoilHead",
               "value": {
                 "override": false,
                 "rarity": 0
@@ -19653,6 +20031,20 @@
                 "override": false,
                 "rarity": 0
               }
+            },
+            {
+              "key": "Halt",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "AntiCoilHead",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
             }
           ],
           "override_outside_enemies_max_power": true,
@@ -19845,6 +20237,20 @@
               "value": {
                 "override": false,
                 "rarity": 5
+              }
+            },
+            {
+              "key": "Halt",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "AntiCoilHead",
+              "value": {
+                "override": false,
+                "rarity": 0
               }
             }
           ],
@@ -20040,6 +20446,20 @@
               "value": {
                 "override": true,
                 "rarity": 10
+              }
+            },
+            {
+              "key": "Halt",
+              "value": {
+                "override": true,
+                "rarity": 3
+              }
+            },
+            {
+              "key": "AntiCoilHead",
+              "value": {
+                "override": false,
+                "rarity": 0
               }
             }
           ]
@@ -21655,6 +22075,20 @@
                 "override": false,
                 "rarity": 0
               }
+            },
+            {
+              "key": "Halt",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "AntiCoilHead",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
             }
           ],
           "override_outside_enemies_max_power": true,
@@ -21844,6 +22278,20 @@
             },
             {
               "key": "Walker",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Halt",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "AntiCoilHead",
               "value": {
                 "override": false,
                 "rarity": 0
@@ -22039,6 +22487,20 @@
             },
             {
               "key": "Red Locust Bees",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Halt",
+              "value": {
+                "override": true,
+                "rarity": 3
+              }
+            },
+            {
+              "key": "AntiCoilHead",
               "value": {
                 "override": false,
                 "rarity": 0
@@ -23657,6 +24119,20 @@
                 "override": false,
                 "rarity": 0
               }
+            },
+            {
+              "key": "Halt",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "AntiCoilHead",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
             }
           ],
           "override_outside_enemies_max_power": true,
@@ -23846,6 +24322,20 @@
             },
             {
               "key": "Walker",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Halt",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "AntiCoilHead",
               "value": {
                 "override": false,
                 "rarity": 0
@@ -24041,6 +24531,20 @@
             },
             {
               "key": "Red Locust Bees",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Halt",
+              "value": {
+                "override": true,
+                "rarity": 7
+              }
+            },
+            {
+              "key": "AntiCoilHead",
               "value": {
                 "override": false,
                 "rarity": 0
@@ -25659,6 +26163,20 @@
                 "override": false,
                 "rarity": 0
               }
+            },
+            {
+              "key": "Halt",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "AntiCoilHead",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
             }
           ],
           "override_outside_enemies_max_power": false,
@@ -25848,6 +26366,20 @@
             },
             {
               "key": "Walker",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Halt",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "AntiCoilHead",
               "value": {
                 "override": false,
                 "rarity": 0
@@ -26043,6 +26575,20 @@
             },
             {
               "key": "Spring",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Halt",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "AntiCoilHead",
               "value": {
                 "override": false,
                 "rarity": 0
@@ -27661,6 +28207,20 @@
                 "override": false,
                 "rarity": 5
               }
+            },
+            {
+              "key": "Halt",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "AntiCoilHead",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
             }
           ],
           "override_outside_enemies_max_power": true,
@@ -27853,6 +28413,20 @@
               "value": {
                 "override": false,
                 "rarity": 10
+              }
+            },
+            {
+              "key": "Halt",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "AntiCoilHead",
+              "value": {
+                "override": false,
+                "rarity": 0
               }
             }
           ],
@@ -28048,6 +28622,20 @@
               "value": {
                 "override": true,
                 "rarity": 20
+              }
+            },
+            {
+              "key": "Halt",
+              "value": {
+                "override": true,
+                "rarity": 7
+              }
+            },
+            {
+              "key": "AntiCoilHead",
+              "value": {
+                "override": false,
+                "rarity": 0
               }
             }
           ]
@@ -29663,6 +30251,20 @@
                 "override": false,
                 "rarity": 3
               }
+            },
+            {
+              "key": "Halt",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "AntiCoilHead",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
             }
           ],
           "override_outside_enemies_max_power": true,
@@ -29852,6 +30454,20 @@
             },
             {
               "key": "Walker",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Halt",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "AntiCoilHead",
               "value": {
                 "override": false,
                 "rarity": 0
@@ -30047,6 +30663,20 @@
             },
             {
               "key": "Red Locust Bees",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Halt",
+              "value": {
+                "override": true,
+                "rarity": 10
+              }
+            },
+            {
+              "key": "AntiCoilHead",
               "value": {
                 "override": false,
                 "rarity": 0
@@ -31665,6 +32295,20 @@
                 "override": false,
                 "rarity": 0
               }
+            },
+            {
+              "key": "Halt",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "AntiCoilHead",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
             }
           ],
           "override_outside_enemies_max_power": true,
@@ -31854,6 +32498,20 @@
             },
             {
               "key": "Walker",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Halt",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "AntiCoilHead",
               "value": {
                 "override": false,
                 "rarity": 0
@@ -32049,6 +32707,20 @@
             },
             {
               "key": "Red Locust Bees",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Halt",
+              "value": {
+                "override": true,
+                "rarity": 5
+              }
+            },
+            {
+              "key": "AntiCoilHead",
               "value": {
                 "override": false,
                 "rarity": 0
@@ -33667,6 +34339,20 @@
                 "override": false,
                 "rarity": 0
               }
+            },
+            {
+              "key": "Halt",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "AntiCoilHead",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
             }
           ],
           "override_outside_enemies_max_power": true,
@@ -33856,6 +34542,20 @@
             },
             {
               "key": "Walker",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Halt",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "AntiCoilHead",
               "value": {
                 "override": false,
                 "rarity": 0
@@ -34054,6 +34754,20 @@
               "value": {
                 "override": true,
                 "rarity": 15
+              }
+            },
+            {
+              "key": "Halt",
+              "value": {
+                "override": true,
+                "rarity": 5
+              }
+            },
+            {
+              "key": "AntiCoilHead",
+              "value": {
+                "override": false,
+                "rarity": 0
               }
             }
           ]
@@ -34445,6 +35159,18 @@
           "max_discount": 80,
           "override_weight": false,
           "weight": 1.1
+        }
+      },
+      {
+        "key": "Shells",
+        "value": {
+          "active": true,
+          "override_price": false,
+          "price": 25,
+          "override_max_discount": false,
+          "max_discount": 80,
+          "override_weight": false,
+          "weight": 1.0
         }
       }
     ],
