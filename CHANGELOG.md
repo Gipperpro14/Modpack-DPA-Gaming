@@ -1,5 +1,17 @@
 ## Lanzamientos
 
+### Versión 1.3.X
+<details>
+<summary>Versión 1.3.0</summary>
+
+- Gran Update, bye Advanced Company gracias por los buenos tiempos pero paso tu tiempo y llego la hora del LethalQuantities. Suerte con tu viaje.
+- Readme totalmente actualizado.
+- 21 lunas y 9 interiores para explorar.
+- Nuevos enemigos, loot y mecanicas.
+- Actualizaciones disponibles de todos los mods. (16/03/24)
+
+</details>
+
 ### Versión 1.2.X
 <details>
 <summary>Versión 1.2.9</summary>
