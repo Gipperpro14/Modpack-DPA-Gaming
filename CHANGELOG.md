@@ -2,6 +2,23 @@
 
 ### Versión 1.3.X
 <details>
+<summary>Versión 1.3.2</summary>
+
+- Se me olvido el CHANGELOG y el README. (Realmente no se guardo bien, ni idea que cambio xd)
+- Mismos cambios que 1.3.1 solo cambie el changelog.
+
+</details>
+
+<details>
+<summary>Versión 1.3.1</summary>
+
+- Pequeños arreglos en el README.
+- Aparecion un bug con el "Random Moons", hasta que se solucione se eliminara el mod.
+- Actualizaciones disponibles de todos los mods. (20/03/24)
+
+</details>
+
+<details>
 <summary>Versión 1.3.0</summary>
 
 - Gran Update, bye Advanced Company gracias por los buenos tiempos pero paso tu tiempo y llego la hora del LethalQuantities. Suerte con tu viaje.

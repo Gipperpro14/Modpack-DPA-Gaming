@@ -1,12 +1,13 @@
-# DPA Gaming (99 Mods)
+# DPA Gaming (98 Mods)
 
 En este modpack encontraras una versión del juego bastante divertida, pero principalmente desafiante sin llegar a ser injusta.
 
 ## Cambios Principales
-* **5 días** para completar la cuota.
+* **3 días** para completar la cuota, pero por cada 1000 de cuota tendras un dia extra.
+* 6 slots de inventario + 2 slots para una linterna y un walkie-talkie.
 * **Disminuye** los créditos actuales en un 1% por cada cuerpo no recuperado, además **aumenta en un 5%** la cuota actual por cada cuerpo no recuperado.
 * Sistema de perks, terminal remota y mejorado sistema de XP para el nivel del usuario.
-* Explora el espacio, ser selectivo no sale barato así que viaja a lunas aleatorias gratuitamente usando en la terminal el comando **"explore"**.
+* Explora el espacio, ser selectivo no sale barato así que viaja a lunas aleatorias gratuitamente usando en la terminal el comando **"explore"**. (Esta funcion queda desabilitada temporalmente, hay un bug xd)
 * Si compras una luna la tendrás gratis para viajar por el resto de la partida. **(Hasta que te despidan)**
 * Un total de **21 lunas** y **11 interiores** diferentes para explorar y cumplir tu cuota.
 
@@ -248,9 +249,6 @@ En este modpack encontraras una versión del juego bastante divertida, pero prin
 * Keypad 7 = Esconde o muestra el HUD.
 * Keypad 8 = Esconde o muestra el contador de FPS arriba a la derecha.
 * (A como recuerde más controles los iré poniendo por acá)
-
-## Comandos importantes en la Terminal
-* Reserved = Compra los espacios extras en el inventario.
 
 ## Mods opcionales
 Hay algunos mods que coloque para mejorar el rendimiento de las personas con computadoras de gama baja, puedes modificarlos o quitarlos a tu gusto ya que son mods de cliente y que no son necesarios para unirte a la partida de otra persona:
