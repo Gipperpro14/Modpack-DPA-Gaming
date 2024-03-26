@@ -2,6 +2,24 @@
 
 ### Versión 1.3.X
 <details>
+<summary>Versión 1.3.4</summary>
+
+- Mejorado el README.
+- Posibles mejoras en el rendimiento, eliminado un mod duplicado xd.
+- Barra de emotes vacias para que la personalices tu mismo. (al veces se me olvida borrar las mias antes de subir la coleccion)
+- Actualizaciones disponibles de todos los mods. (25/03/24)
+
+</details>
+
+<details>
+<summary>Versión 1.3.3</summary>
+
+- Arreglo de cosas que ya no estan en el README.
+- Actualizaciones disponibles de todos los mods. (22/03/24)
+
+</details>
+
+<details>
 <summary>Versión 1.3.2</summary>
 
 - Se me olvido el CHANGELOG y el README. (Realmente no se guardo bien, ni idea que cambio xd)

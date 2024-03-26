@@ -1,4 +1,4 @@
-# DPA Gaming (98 Mods)
+# DPA Gaming (102 Mods)
 
 En este modpack encontraras una versión del juego bastante divertida, pero principalmente desafiante sin llegar a ser injusta.
 
@@ -6,7 +6,6 @@ En este modpack encontraras una versión del juego bastante divertida, pero prin
 * **3 días** para completar la cuota, pero por cada 1000 de cuota tendras un dia extra.
 * 6 slots de inventario + 2 slots para una linterna y un walkie-talkie.
 * **Disminuye** los créditos actuales en un 1% por cada cuerpo no recuperado, además **aumenta en un 5%** la cuota actual por cada cuerpo no recuperado.
-* Sistema de perks, terminal remota y mejorado sistema de XP para el nivel del usuario.
 * Explora el espacio, ser selectivo no sale barato así que viaja a lunas aleatorias gratuitamente usando en la terminal el comando **"explore"**. (Esta funcion queda desabilitada temporalmente, hay un bug xd)
 * Si compras una luna la tendrás gratis para viajar por el resto de la partida. **(Hasta que te despidan)**
 * Un total de **21 lunas** y **11 interiores** diferentes para explorar y cumplir tu cuota.
@@ -14,32 +13,32 @@ En este modpack encontraras una versión del juego bastante divertida, pero prin
 # Lista de Lunas y Dificultad
 | #  | Luna            | Dificultad | Precio |
 |----|-----------------|------------|--------|
-| 1  | Assurance       | D          | 15     |
+| 1  | Assurance       | D          | 0      |
 |----|-----------------|------------|--------|
-| 2  | Junic           | C          | 30     |
-| 3  | Vow             | C          | 50     |
+| 2  | Junic           | C          | 15     |
+| 3  | Vow             | C          | 30     |
 |----|-----------------|------------|--------|
-| 4  | Asteroid-13     | B          | 75     |
-| 5  | Atlantica       | B          | 100    |
-| 6  | Experimentation | B          | 125    |
-| 7  | Gloom           | B          | 150    |
-| 8  | Infernis        | B          | 175    |
-| 9  | March           | B          | 200    |
-| 10 | Offense         | B          | 225    |
+| 4  | Asteroid-13     | B          | 45     |
+| 5  | Atlantica       | B          | 60     |
+| 6  | Experimentation | B          | 75     |
+| 7  | Gloom           | B          | 90     |
+| 8  | Infernis        | B          | 105    |
+| 9  | March           | B          | 120    |
+| 10 | Offense         | B          | 135    |
 |----|-----------------|------------|--------|
-| 11 | Fission         | A          | 250    |
-| 12 | Desolation      | A          | 300    |
-| 13 | Gratar          | A          | 350    |
-| 14 | Polarus         | A          | 400    |
-| 15 | Rend            | A          | 450    |
+| 11 | Fission         | A          | 150    |
+| 12 | Desolation      | A          | 165    |
+| 13 | Gratar          | A          | 180    |
+| 14 | Polarus         | A          | 195    |
+| 15 | Rend            | A          | 210    |
 |----|-----------------|------------|--------|
-| 16 | Acidir          | S          | 500    |
-| 17 | Dine            | S          | 600    |
-| 18 | Etern           | S          | 700    |
-| 19 | Oldred          | S          | 800    |
-| 20 | Titan           | S+         | 900    |
+| 16 | Acidir          | S          | 225    |
+| 17 | Dine            | S          | 240    |
+| 18 | Etern           | S          | 255    |
+| 19 | Oldred          | S          | 270    |
+| 20 | Titan           | S+         | 285    |
 |----|-----------------|------------|--------|
-| 21 | Cosmocos        | Unknown    | 1000   |
+| 21 | Cosmocos        | Unknown    | 300   |
 
 # Interiores disponibles
 * Fabrica (Vanilla)
@@ -56,62 +55,63 @@ En este modpack encontraras una versión del juego bastante divertida, pero prin
 
 **Notas:** He notado que segun el interior puede que el spawn de items sea menor, esto ya es error del que crea el interior por no crear suficientes spawns de scrap. Buscare una solucion a futuro.
 
-## Cambios generales del Juego
-- **Selección de modo de juego**:
-  - Skipea la selección de online o Lan.
-- **Interacción y habilidades**:
-  - Abre y cierra puertas, desactiva torretas y minas, y cambia el enfoque al jugador que vigilas gracias a la pantalla táctil del monitor.
-- **HUD y Sonido**:
-  - Ahora tienes un mejor HUD que indica tu stamina de manera más exacta y la velocidad en la que se gasta o recupera.
-  - Añade +470 efectos de sonido, incluyendo música de ambiente y cambios en los sonidos de los enemigos y del jugador.
-- **Máquinas Tragaperras**:
-  - Añade 3 máquinas tragaperras en la compañía con opciones para multiplicar, triplicar, duplicar, dividir por la mitad o llevar el valor de la scrap a 0.
-- **Interacción entre enemigos y compañeros**:
-  - Añade a los enemigos la habilidad de escuchar y repetir lo que dicen tus compañeros.
-- **Malfuncionamiento de la Nave**:
-  - Añade la posibilidad de que la nave tenga malfunciones, con su probabilidad aumentada si no se recupera un cuerpo.
-- **Rangos y Experiencia**:
-  - Añade más rangos, hasta 25 extras, y aumenta la experiencia recibida según las circunstancias del juego.
-- **Teclas Especiales**:
-  - Añade teclas especiales para ocultar el HUD (Keypad 7) y mostrar los FPS actuales (Keypad 8).
-- **Escape de las instalaciones**:
-  - Tienes 2 minutos para escapar de las instalaciones antes de que explote todo, seguido de sacar el apparatus de su lugar (Valor del apparatus: 500).
-- **Curación**:
-  - Añade una estación médica para curarse.
-- **FPS**:
-  - Aumenta el límite de FPS de 250 a 500.
-- **Teleportación y Equipamiento**:
-  - El inverse teleporter tiene 10 segundos de cooldown y puedes llevarte todos tus items. El teleporter normal tiene el mismo enfriamiento, pero no teletransporta scrap de la nave, solo el equipamiento.
-- **Visor**:
-  - El visor es reactivo al medio ambiente y a la salud.
-- **Información en la Nave**:
-  - Entrega información de loot, hora, créditos disponibles, días jugados y clima de la luna actual. Esconde los nicknames de los jugadores en las lunas (Mecánica de juego importante).
-- **Compra de Armas**:
-  - Facilita la compra de la shotgun y sus balas y aumenta el límite a la cantidad de cosas que puedes vender a la vez.
-- **Revivir**:
-  - Puedes revivir a tus compañeros caídos llevando su cuerpo y pagando 250 créditos.
-- **Inventario y Cosméticos**:
-  - Facilita el rotar objetos en la nave y cambia tus cosméticos, hazlo en el menu principal antes de entrar a un lobby.
-- **Rendimiento y Optimización**:
-  - Reduce la cantidad de logs y, por lo tanto, aumenta el rendimiento.
-  - No se renderizan objetos no visibles o que están demasiado lejos.
-- **Otros Agregados**:
-  - Introduce nuevos elementos como el detector de scrap, barras luminosas, contador Geiger y objetos malditos, entre otros.
-- **Comunicación y Espectador**:
-  - Permite comunicarte por radio con una tecla especial (V, pero solo con cascos).
-  - Los jugadores pueden unirse en cualquier momento de la partida, entrando automáticamente en modo espectador si se unen después de aterrizar en la luna.
-- **Personalización y Niveles**:
-  - Ofrece sistema de niveles y ropa como chalecos antibalas, auriculares, etc. También puedes ver el porcentaje de batería exacta que te queda y un contador de cuánto tiempo durará la batería.
-- **Jugabilidad Adicional**:
-  - Proporciona +100 emotes diferentes con su propia música y posibilidad de bloquear el copyright para streaming o grabación.
-- **Compatibilidad y Accesibilidad**:
-  - Usa los cosméticos que quieras debido a la compatibilidad con MoreCompany y ofrece accesibilidad con teclas especiales para moverte por el inventario y opciones como el muteo rápido (tecla M) y activación de la linterna en el inventario (tecla F).
-- **Configuración y Juego en Partida**:
-  - Configura tus mods en partida, sin necesidad de tocar los parámetros del modpack, y juega con hasta 32 personas, configurando la partida antes de empezar tu mundo o cuando ya ha sido usado.
-- **Historial y Terminal**:
-  - Accede a un historial en la terminal usando las teclas de arriba y abajo, y utiliza una terminal portable donde comprar items, subir niveles o extender tu cuota.
-- **Verdadera Oscuridad**:
-  - Lleva siempre alguna luz contigo, la oscuridad sera tu peor enemigo. Aunque por suerte podras encontrar en las instalaciones linternas abandonadas con algo de batería en su interior.
+## Mejoras Generales:
+- **Rendimiento del Juego:**
+  - Registro procesado separadamente del material del juego.
+  - Menos advertencias en los logs para mejorar el rendimiento.
+
+- **Interfaz de Usuario (UI):**
+  - Mejora en el chat, reloj y límite de FPS aumentado.
+  - HUD simplificado y preciso, incluye información de batería y stamina.
+
+- **Jugabilidad:**
+  - Tiempo límite extendido según la cuota.
+  - Posibilidad de unirse a la partida en curso si la nave está en órbita.
+  - El scrap otorga experiencia para mejorar habilidades.
+
+- **Exploración y Mecánicas:**
+  - Encerrado de los Backrooms al recibir daño (puedes escapar).
+  - Mejoras en la retirada del apparatus.
+  - Reactividad del visor al ambiente y situaciones.
+
+- **Monetización y Recompensas:**
+  - Venta de escopeta y municiones.
+  - Compra de artefactos y revivir compañeros por créditos.
+
+## Contenido Adicional:
+- **Cosméticos y Emotes:**
+  - Más de 200 emotes agregados.
+  - Más de 250 cosméticos disponibles.
+
+- **Sonido:**
+  - Agregados más de 450 sonidos nuevos.
+
+- **Variabilidad del Juego:**
+  - Multiplicidad de climas simultáneos.
+  - Posibles malfunciones en la nave.
+
+## Sistema de Progresión:
+- **Experiencia y Rangos:**
+  - Nuevo sistema de EXP con más de 25 rangos y bonificaciones.
+  - Experiencia al conseguir scrap.
+
+## Funciones de Juego Avanzadas:
+- **Interacción y Operatividad:**
+  - Uso del monitor para diversas acciones.
+  - Cancelación de teletransporte con la tecla H.
+
+## Opciones de Juego Ampliadas:
+- **Partida Multijugador:**
+  - Incremento de jugadores por partida (de 4 a 32).
+  - Tras salir del lobby, se guarda el traje equipado.
+
+- **Opciones de Compra:**
+  - Adquisición de artefactos en tienda de "Lategame".
+  - Contratación de empleado para revivir compañeros.
+
+- **Misiones y Contratos:**
+  - Contratos para cumplir para poder conseguir cumplir la cuota.
+  - Misiones de corto plazo para ganar créditos.
 
 ## Cambios en las Entidades (Spoiler)
 <details>
@@ -242,6 +242,7 @@ En este modpack encontraras una versión del juego bastante divertida, pero prin
 ## Controles
 * F = Con una linterna para encenderla desde el inventario.
 * X = Con un walkie-takie para comunicarte con tus compañeros.
+* H = Cancelar TP.
 * C = Abrir los emotes.
 * P = Sincronizar emotes.
 * M = Poner tu microfono en silencio, mientras aparezca el icono abajo a la izquerda no podran escucharte mientras hablas.
