@@ -2,6 +2,8 @@
 
 En este modpack encontraras una versión del juego bastante divertida, pero principalmente desafiante sin llegar a ser injusta.
 
+**UPDATE:** Cada 3 a 5 días. (Depende disponibilidad o nuevas características de mods)
+
 ## Cambios Principales
 * **3 días** para completar la cuota, pero por cada 1000 de cuota tendras un dia extra.
 * 6 slots de inventario + 2 slots para una linterna y un walkie-talkie.
@@ -43,17 +45,15 @@ En este modpack encontraras una versión del juego bastante divertida, pero prin
 # Interiores disponibles
 * Fabrica (Vanilla)
 * Mansión (Vanilla)
-* Scarlet Devil Mansion (Modded)
+* Scarlet Devil Mansion (Modded) 
 * Liminal Pool Rooms (Modded)
 * Mental Hospital (Modded)
 * Bunker (Modded)
 * Office (Modded)
 * Castle (Modded)
 * Sewer (Modded)
-* SCP (Modded)
+* SCP (Modded) 
 * Poolroms (Modded)
-
-**Notas:** He notado que segun el interior puede que el spawn de items sea menor, esto ya es error del que crea el interior por no crear suficientes spawns de scrap. Buscare una solucion a futuro.
 
 ## Mejoras Generales:
 - **Rendimiento del Juego:**
@@ -247,8 +247,10 @@ En este modpack encontraras una versión del juego bastante divertida, pero prin
 * P = Sincronizar emotes.
 * M = Poner tu microfono en silencio, mientras aparezca el icono abajo a la izquerda no podran escucharte mientras hablas.
 * K o L = Moverse en las paginas de los trajes disponibles.
+* 1/2/3/4/5/6 = Moverse rapidamente a un slot del inventario.
 * Keypad 7 = Esconde o muestra el HUD.
 * Keypad 8 = Esconde o muestra el contador de FPS arriba a la derecha.
+* Lelf Alt = Inventario extra.
 * (A como recuerde más controles los iré poniendo por acá)
 
 ## Mods opcionales

@@ -2,6 +2,13 @@
 
 ### Versión 1.3.X
 <details>
+<summary>Versión 1.3.5</summary>
+
+- Actualizaciones disponibles de todos los mods. (29/03/24)
+
+</details>
+
+<details>
 <summary>Versión 1.3.4</summary>
 
 - Mejorado el README.
